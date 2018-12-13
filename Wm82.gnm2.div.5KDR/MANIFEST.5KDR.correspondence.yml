@@ -1,0 +1,5 @@
+%YAML 1.2
+#filename in this repository    previous name
+glyma.Wm82.gnm2.div.5KDR.SNPdata.vcf.gz        Brazilian_passed_snp.vcf.gz
+glyma.Wm82.gnm2.div.5KDR.SNPdata.hmp.gz        Brazilian_passed_snp.hmp.gz
+glyma.Wm82.gnm2.div.5KDR.CultivarList.txt      codigo_cultivares.txt   

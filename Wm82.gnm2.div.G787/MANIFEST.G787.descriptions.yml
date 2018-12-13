@@ -1,0 +1,9 @@
+%YAML 1.2
+#filename in this repository               description
+glyma.Wm82.gnm2.div.G787.Soja.vcf: Genotype information in vcf format for 45 Soja lines from USB-funded project.
+glyma.Wm82.gnm2.div.G787.Soy106.vcf: Genotype information in vcf format for 106 accessions from USB-funded project. This dataset is from publication Valliyodan et al Sci Rep 2016.
+glyma.Wm82.gnm2.div.G787.USB-15x.vcf: Genotype information in vcf format for 284 accessions sequenced at 15x coverage from USB-funded project.
+glyma.Wm82.gnm2.div.G787.USB-40x.vcf: Genotype information in vcf format for 46 accessions sequenced at 40x coverage from USB-funded project. 
+glyma.Wm82.gnm2.div.G787.USB481.vcf: Genotype informaiton in vcf format for all 481 accessions from USB-funded project
+glyma.Wm82.gnm2.div.G787.USB481_nosoja.vcf: Combined genotype information, in vcf format, for all USB lines excluding the Sjoa lines from USB funded project. 
+glyma.Wm82.gnm2.div.G787.USB481_list.txt: Table containing the PI names, common names, Maturity group, and county of Orgin for the 481 accessions. 

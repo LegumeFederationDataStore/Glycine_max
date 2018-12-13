@@ -1,0 +1,6 @@
+%YAML 1.2
+#filename in this repository			description
+glyma.Wm82.gnm1.div.QXZK.SNPData.vcf.gz: SNP information for 302 wild and cultivated soybean accessions obtained from http://figshare.com/articles/Soybean_resequencing_project/1176133.
+glyma.Wm82.gnm1.div.QXZK.INDEL.vcf.gz: INDEL information for 302 wild and cultivated soybean accessions obtained from http://figshare.com/articles/Soybean_resequencing_project/1176133.
+glyma.Wm82.gnm1.div.QXZK.script1.sh: Script used to convert original text file containing SNP data into a VCF file. 
+glyma.Wm82.gnm1.div.QXZK.script2.sh: Script used to convert original text file containing INDEL information into a VCF file. 

@@ -1,0 +1,55 @@
+%YAML 1.2
+identifier: S3DM
+
+provenance: Data in this directory derives from the publication 10.1186/s12864-017-4160-1 
+files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: Personal communication
+
+subject: VCF file containing GBS information for 374 U.S. and Brazilian accessions against 68301 SNPs.
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 \ Wm82.a2.v1
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: PRJNA396424
+
+scientific_name_abbrev: Glyma
+
+genotype: Multiple Genotypes
+
+description: Original VCF file received from Wei Wei (Clough Lab) containing genotype information for 374 accessions across 68301 SNPs. Data was used to perform GWAS and identify loci associatedc with Sclerotinia Stem Rot resistance.  
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2018-01-27
+
+local_file_creation_date: 2018-09-05
+
+publication_doi: 10.1186/s12864-017-4160-1
+
+dataset_release_date: 2018-09-18
+
+publication_title: Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil
+
+contributors: Wei Wei, Ana Carolina Oliveira Mesquita, Adriana de A. Figueiro, Xing Wu, Shilpa Manjunatha, Daniel P. Wickland, Matthew E. Hudson, Fernando C. Juliatti, Steven J. Clough 
+
+data_curators: Anne V. Brown
+
+public_access_level: Public
+
+license: Open
+
+keywords: GWAS, Genotype-by-sequencing, SNP, Marker, White Mold, QTL, GAPIT, CMLM, FarmCPU
+
+citations: Wei, W., Mesquita, A. C. O., Figueiró, A. D. A., Wu, X., Manjunatha, S., Wickland, D. P., ... & Clough, S. J. (2017). Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil. BMC genomics, 18(1), 849.
+
+file_transformation: 
+  
+  - 2018-09-18: added Gm to the beginning of each chromosome ( perl -pe 's/^(\d){1}/Gm0$1/; s/^(\d\d)/Gm$1/')
+
+changes: 

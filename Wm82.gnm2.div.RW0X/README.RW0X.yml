@@ -1,0 +1,53 @@
+%YAML 1.2
+identifier: RW0X 
+
+provenance: Data in this directory derives from the publication doi:10.1186/s12859-017-2000-6. Files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: Personal communication
+
+subject: VCF files containing genotype information for 3 populations of soybean produced by GB-eaSy.  
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 / Wm82.a2
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: Glyma
+
+genotype: Multiple genotypes
+
+description: Original VCF files received from Dr. Daniel P. Wickland containing genotype information from 3 soybean populations. Population 1 consists of 378 F2 lines resulting from a cross between Prize and an NMU-mutagenized individual of Williams 82. Population 2 consists of 391 F2 individuals from a cross between two breeding lines. Population 3 consists of 81 unrelated accessions that form an association panel (Wickland et al. 2017).
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2017-12-28
+
+local_file_creation_date: 2018-09-18
+
+publication_doi: 10.1186/s12859-017-2000-6
+
+dataset_release_date: 2018-10-02
+
+publication_title: A comparison of genotyping-by-sequencing analysis methods on low-coverage crop datasets shows advantages of a new workflow, GB-eaSy
+
+contributors: Daniel P. Wickland, Gopal Battu, Karen A. Hudson, Brian W. Diers, Matthew E. Hudson
+
+data_curators: Anne V. Brown
+
+public_access_level: public
+
+license: Open
+
+keywords: GBS, WGS, Bioinformatics pipelines, Variant calling, Soybean, Crops
+
+citations: Wickland, D. P., Battu, G., Hudson, K. A., Diers, B. W., & Hudson, M. E. (2017). A comparison of genotyping-by-sequencing analysis methods on low-coverage crop datasets shows advantages of a new workflow, GB-eaSy. BMC bioinformatics, 18(1), 586.
+
+file_transformation:                 
+
+changes: <!-- Free-text notes of any significant changes in the directory -->
+

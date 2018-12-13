@@ -1,0 +1,44 @@
+Data Usage Policy: Glycine max cv. Lee v1.0 and Glycine soja PI 483463 genome assemblies
+
+As a public service, the researchers who have assembled the genomes of Glycine max 
+cv. Lee and Glycine soja PI 483463 are making these genome assemblies available before 
+scientific publication according to the Ft. Lauderdale Accord 
+(https://www.genome.gov/pages/research/wellcomereport0303.pdf). These data sets have 
+been made available from the Legume Federation / SoyBase Data Store prior to 
+peer-reviewed publication of the data, with the expectation and desire to publish 
+analysis of the data in a reasonable time without preemption by other groups. 
+By accessing these data, you agree not to publish any articles containing analyses 
+of genes or genomic data on a whole genome or chromosome scale prior to publication 
+by the sequencing consortium of a comprehensive genome analysis ("Reserved Analyses"). 
+Reserved analyses include the identification of complete (whole genome) sets of 
+genomic features such as genes, gene families, regulatory elements, repeat structures, 
+GC content, or any other genome feature, and whole-genome- or chromosome- scale comparisons 
+with other species including other soybean species and cultivars. For specific questions 
+about data use please send your inquiry to Dr. Henry Nguyen, nguyenhenry@missouri.edu.
+
+Also note that this assembly data is being made available prior to deposition at GenBank.
+The assemblies MAY CHANGE during deposition. Therefore, please treat these assemblies as
+initial drafts versions.
+
+If you will be employing the data for non-reserved analyses, such as cloning a gene of
+interest, designing mapping panels or to analyze a gene family etc., please reference 
+"The Glycine max cv Lee and Glycine soja PI 483463 sequencing consortium, pre-publication" 
+in your provisional citation.
+
+These data may be freely downloaded and used by all who respect the restrictions in the
+previous paragraphs. The assembly and annotations should not be redistributed or
+repackaged without permission. Once the sequence is moved to unreserved status, the data 
+will be freely available for any subsequent use. If you wish to use this data, please 
+contact Dr. Henry Nguyen, nguyenhenry@missouri.edu with your plans, to ensure that 
+proposed usage of sequence data are not Reserved Analyses.
+
+Principal Investigators: 
+Henry T. Nguyen, nguyenhenry@missouri.edu 
+Babu Valliyodan, valliyodanb@missouri.edu 
+Steven Cannon, steven.cannon@ars.usda.gov 
+Hon Ming Lam, honming@cuhk.edu.hk 
+Dave Edwards, dave.edwards@uwa.edu.au 
+Ting-Fung Chan, tf.chan@cuhk.edu.hk
+Jeremy Schmutz, jschmutz@hudsonalpha.com
+Qijian Song, Qijian.Song@ARS.USDA.GOV
+

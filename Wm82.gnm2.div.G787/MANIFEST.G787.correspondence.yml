@@ -1,0 +1,9 @@
+%YAML 1.2
+#filename in this repository               previous name
+glyma.Wm82.gnm2.div.G787.Soja.vcf: SojaPASS_final.vcf
+glyma.Wm82.gnm2.div.G787.Soy106.vcf: Soy106PASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB-15x.vcf: USB-15xPASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB-40x.vcf: USB-40xPASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB481_nosoja.vcf: USB481_nosojaPASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB481.vcf: USB481PASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB481_list.txt: USB481_accession_List.txt

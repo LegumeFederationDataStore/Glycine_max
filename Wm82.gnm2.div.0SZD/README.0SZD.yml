@@ -1,0 +1,53 @@
+%YAML 1.2
+identifier: 0SZD 
+
+provenance: Data in this directory derives from the publication doi:10.1038/ng.715. Files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: Personal communication
+
+subject: VCF file containing genotype information for 31 wild and cultivated soybeans received from Meng Ni, Tin Hang, and Hon-Ming Lam.  
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 / Wm82.a2
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: Glyma
+
+genotype: Multiple genotypes
+
+description: VCF file from resequencing 31 wild and cultivated chinese soybean accessions called with respect to version a2 of the soybean reference genome received from Meng Ni, Tin Hang, and Hon-Ming Lam. 
+
+dataset_doi: ftp://public.genomics.org.cn/BGI/soybean_resequencing/data/
+
+genbank_accession: SRA020131
+
+original_file_creation_date: 2018-09-28
+
+local_file_creation_date: 2018-09-28
+
+publication_doi: 10.1038/ng.715
+
+dataset_release_date: 2018-09-28
+
+publication_title: Resequencing of 31 wild and cultivated soybean genomes identifies patterns of genetic diversity and selection
+
+contributors: Hon-Ming Lam, Xun Xu, Xin Liu, Wenbin Chen, Guohua Yang, Fuk-Ling Wong, Man-Wah Li, Weiming He, Nan Qin, Bo Wang, Jun Li, Min Jian, Jian Wang, Guihua Shao, Jun Wang, Samuel Sai-Ming, Gengyun Zhang, Meng Ni, Tin Hang
+
+data_curators: Anne V. Brown
+
+public_access_level: private
+
+license: Open
+
+keywords: 
+
+citations: Lam HM, Xu X, Liu X, Chen W, Yang G, Wong FL, Li MW, He W, Qin N, Wang B, Li J. Resequencing of 31 wild and cultivated soybean genomes identifies patterns of genetic diversity and selection. Nature genetics. 2010 Dec;42(12):1053.
+
+file_transformation:                 
+
+changes: <!-- Free-text notes of any significant changes in the directory -->
+

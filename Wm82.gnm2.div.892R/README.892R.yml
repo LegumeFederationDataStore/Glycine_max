@@ -1,0 +1,69 @@
+%YAML 1.2
+identifier: 892R
+
+provenance: The files in this directory originated from NCBI dbSNP (https://www.ncbi.nlm.nih.gov/projects/SNP/).  The NCBI dbSNP repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, SoyBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: ftp://ftp.ncbi.nih.gov/snp/organisms/soybean_3847/viewBatch/snpBatch_BARC_1059007.gz
+
+subject: VCF, HapMap, and Flapjack files containing genotype information of the whole U.S. soybean germplasm collection using the SoySNP50K BeadChip. 
+
+related_to: Glycine max Soybean Reference Genome Wm82.a2.v1
+
+scientific_name: Glycine max, Glycine soja
+
+taxid: 3847, 3848
+
+bioproject: none
+
+scientific_name_abbrev: Glyma, Glyso
+
+genotype: Many Genotypes
+
+description: Multiple files containing genotype information of the U.S. soybean germplasm collection genotyped with the SoySNP50K BeadChip. Data included in this set are VCF files, HapMap files, and files to be used for the program Flapjack. 
+
+dataset_doi: ftp://ftp.ncbi.nih.gov/snp/organisms/soybean_3847/viewBatch/snpBatch_BARC_1059007.gz
+
+genbank_accession: 
+  - ss715578401 - ss715639200
+  - rs121965363 - rs864620262
+
+original_file_creation_date: 2015-07-28
+
+local_file_creation_date: 2016-10-01
+
+publication_doi: 
+  - 10.1534/g3.115.019000
+  - 10.1371/journal.pone.0054985
+
+dataset_release_date: 2015-07-28
+
+publication_title: 
+  - Fingerprinting Soybean Germplasm and Its Utility in Genomic Research
+  - Development and Evaluation of SoySNP50K, a High-Density Genotyping Array for Soybean
+
+contributors: 
+  - Qijian Song, David L. Hyten, Gaofeng Jia, Charles V. Quigley, Edward W. Fickus, Randall L. Nelson, and Perry B. Cregan
+  - Qijian Song, David L. Hyten, Gaofeng Jia, Charles V. Quigley, Edward W. Fickus, Randall L. Nelson, and Perry B. Cregan
+
+data_curators: Anne V. Brown, Jacqueline D. Campbell
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, germplasm, genotyping, SoySNP50K, genetic diversity, haplotype block, map
+
+citations: 
+  - Song, Q., Hyten, D. L., Jia, G., Quigley, C. V., Fickus, E. W., Nelson, R. L., & Cregan, P. B. (2015). Fingerprinting soybean germplasm and its utility in genomic research. G3: Genes, Genomes, Genetics, 5(10), 1999-2006.
+  - Song, Q., Hyten, D. L., Jia, G., Quigley, C. V., Fickus, E. W., Nelson, R. L., & Cregan, P. B. (2013). Development and Evaluation of SoySNP50K, a High-Density Genotyping Array for Soybean. PLoS ONE, 8(1): e54985
+
+file_transformation: 
+  - glyma.Wm82.gnm2.div2.892R.hmp.txt.gz    	  Transformation from VCF format to HapMap format using Tassel 5.2. 
+  - glyma.Wm82.gnm2.div2.892R.Flapjack.txt.gz	  Transformation from HapMap into Flapjack format by removing columns "alleles","chrom","pos","strand","Assembly","center","protLSID","assayLSID","PanelLSID", and "QCcode" from the HapMap file. Heterozygotes indicated by IUPAC code are changed to the 2 alleles separated by a "/". The file is then transposed so ssIDs are columns and accessions are rows. A separate marker map file is needed for use in Flapjack. 
+  - glyma.Wm82.gnm2.div2.892R.markerMap.txt.gz     First 3 columns of soysnp50K_wm82.a2_31417.hmp.txt.gz
+
+changes: 
+  - 2018-02-28 Changed prefix of marker files from "glysp.mixed" to "glyma.Wm82" to reflect that the variants were called with respect to the Williams82 genome assembly
+  - 2018-02-28 Created MANIFEST files
+  - 2018-02-28 Changed "glysp.mixed.gnm2.div2.892R.hmp.txt.gz" to Wm82.gnm2.div2.892R.hmp.gz"
+  - 2018-06-20 Changed formatting of publications in this file

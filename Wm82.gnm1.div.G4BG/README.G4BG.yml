@@ -1,0 +1,55 @@
+%YAML 1.2
+identifier: G4BG
+
+provenance: Data in this directory derives from the publication 10.1371/journal.pone.0171105. 
+files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: Personal communication
+
+subject: Haplotype information for 169 Brazilian soybean cultivars genotyped with the 6K SNPchip. 
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm1.FCtY / Wm82.a1
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: Glyma
+
+genotype: Multiple Genotypes
+
+description: VCF file received from Dr. Rodrigo Ivan Contreras-Soto containing haplotype information for 169 Brazilian soybean cultivars genotyped with the 6K SNP chip. 
+
+dataset_doi: none
+
+genbank_accession: none 
+
+original_file_creation_date: 2018-10-25
+
+local_file_creation_date: 2018-10-25
+
+publication_doi: 10.1371/journal.pone.0171105
+
+dataset_release_date: 2018-10-25
+
+publication_title: A Genome-Wide Association Study for Agronomic Traits in Soybean Using SNP Markers and SNP-Based Haplotype Analysis
+
+contributors: Rodrigo Iván Contreras-Sot, Freddy Mor, Marco Anonio Rott de Oliveira, Wilson Higashi, Carlos Alberto Scapim, Ivan Schuster
+
+data_curators: Anne V. Brown
+
+public_access_level: Public
+
+license: Open
+
+keywords: 
+
+citations: Contreras-Soto RI, Mora F, de Oliveira MAR, Higashi W, Scapim CA, Schuster I (2017) A Genome-Wide Association Study for Agronomic Traits in Soybean Using SNP Markers and SNP-Based Haplotype Analysis. PLoS ONE 12(2): e0171105. https://doi.org/10.1371/journal.pone.0171105
+
+file_transformation: Origianl excel file received from Dr. Contreras-Soto was transformed into a VCF file using an in-house script. 
+  -  ```
+
+changes: 
+  - <!--Free-text notes of any significant changes in the directory -->

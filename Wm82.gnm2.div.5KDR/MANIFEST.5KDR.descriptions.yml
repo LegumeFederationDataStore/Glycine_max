@@ -1,0 +1,7 @@
+%YAML 1.2
+#filename in this repository       description
+glyma.Wm82.gnm2.div.5KDR.SNPdata.vcf.gz        VCF file containing genotype information for 28 cultivars from Brazil
+glyma.Wm82.gnm2.div.5KDR.CultivarList.txt      Text file containing the accession codes in the VCF file and the accessions those codes represent.
+glyma.Wm82.gnm2.div.5KDR.SNPdata.hmp.gz        Genotype information in HapMap format for the 28 Brazilian cultivars. HapMap was produced using Tasssel v5.2
+
+

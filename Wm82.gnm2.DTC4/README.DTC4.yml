@@ -1,0 +1,56 @@
+%YAML 1.2
+identifier: DTC4
+
+provenance: The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://phytozome.jgi.doe.gov
+
+subject: Glycine max accession Williams genome assembly v2.0
+
+related_to: Genome annotation files in directory Glycine_max/Wm82.gnm2.ann1.RVB6
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: glyma
+
+genotype: Williams 82
+
+description: Genome assembly
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2014-01
+
+local_file_creation_date: 2017-09-01
+
+publication_doi: 10.1038/nature08670
+
+dataset_release_date: 2017-09-01
+
+publication_title: Genome sequence of the palaeopolyploid soybean
+
+contributors: Schmutz J, Cannon SB, Schlueter J, Ma J, Mitros T, Nelson W, Hyten DL, Song Q, Thelen JJ, Cheng J, Xu D, Hellsten U, May GD, Yu Y, Sakurai T, Umezawa T, Bhattacharyya MK, Sandhu D, Valliyodan B, Lindquist E, Peto M, Grant D, Shu S, Goodstein D, Barry K, Futrell-Griggs M, Abernathy B, Du J, Tian Z, Zhu L, Gill N, Joshi T, Libault M, Sethuraman A, Zhang XC, Shinozaki K, Nguyen HT, Wing RA, Cregan P, Specht J, Grimwood J, Rokhsar D, Stacey G, Shoemaker RC, Jackson SA
+
+data_curators: Jacqueline Campbell, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: none
+
+citations: Schmutz J, Cannon SB, Schlueter J, Ma J, Mitros T, Nelson W, Hyten DL, Song Q, Thelen JJ, Cheng J, Xu D, Hellsten U, May GD, Yu Y, Sakurai T, Umezawa T, Bhattacharyya MK, Sandhu D, Valliyodan B, Lindquist E, Peto M, Grant D, Shu S, Goodstein D, Barry K, Futrell-Griggs M, Abernathy B, Du J, Tian Z, Zhu L, Gill N, Joshi T, Libault M, Sethuraman A, Zhang XC, Shinozaki K, Nguyen HT, Wing RA, Cregan P, Specht J, Grimwood J, Rokhsar D, Stacey G, Shoemaker RC, Jackson SA. (2010) Genome sequence of the palaeopolyploid soybean.  Nature 463, 178 - 183; doi:10.1038/nature08670
+
+file_transformation: 
+  - prefixed chromosome IDs with "glyma.Wm82.gnm2."
+
+changes: 
+  - 2018-02-28 prefixed chromosome IDs with "glyma.Wm82.gnm2."
+  - 2018-03-01 moved file lists into manifest files
+  - 2018-04-23 fixed typo in README

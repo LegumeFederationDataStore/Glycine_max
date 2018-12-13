@@ -1,0 +1,4 @@
+%YAML 1.2
+#filename is this repository			previous name
+glyma.Wm82.gnm2.div.S3DM.SNPdata.vcf.gz: TASSEL_Clough.raw.vcf.gz
+glyma.Wm82.gnm2.div.S3DM.CultivarList.txt: genotype_information_Clough2017.xlsx

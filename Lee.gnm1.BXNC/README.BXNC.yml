@@ -1,0 +1,63 @@
+%YAML 1.2
+key_name: BXNC
+
+provenance: The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the SoyBase, LegumeInfo, PeanutBase, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the PGC and/or its collaborators of a comprehensive genome analysis ("Reserved Analyses"). See what is considered Reserved Analyses in the usage policy.
+
+source: https://legumefederation.org/data/ and mirrored at SoyBase, LegumeInfo, PeanutBase, and CyVerse
+
+subject: Genome assembly
+
+related_to: https://www.ncbi.nlm.nih.gov/assembly/GCA_002905335.1
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: PRJNA407817
+
+scientific_name_abbrev: glyma
+
+genotype: Lee
+
+description: Initial genome assembly for Glycine max cultivar Lee. The assembly incorporates Illumina sequence and optical mapping from NRGene. Pseudomolecule anchoring of scaffolds was accomplished using two dense genetic maps as well as synteny comparisons with Glycine max reference assembly for cultivar Williams 82 and Glycine soja PI 483463. This assembly corresponds to quality control round 12 (QC12), Oct 26, 2017
+
+dataset_doi: none
+
+genbank_accession: PELE00000000
+
+original_file_creation_date: 2017-10-26
+
+local_file_creation_date: 2017-10-26
+
+publication_doi: none
+
+dataset_release_date: 2017-10-26
+
+publication_title: none
+
+contributors: Henry T. Nguyen, Babu Valliyodan, Steven Cannon, Hon Ming Lam, Dave Edwards, Philipp Bayer, Jacqueline Campbell, Ting-Fung Chan, Jeremy Schmutz, Qijian Song
+
+data_curators: Jacqueline Campbell, Steven Cannon
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: soybean, Lee
+
+citations: [initial, provisional citation, pre-publication:] Glycine max cv Lee and Glycine soja PI 483463 sequencing consortium, pre-publication
+
+file_transformation: 
+  - This pseudomolecule assembly derives from files Lee_soybean_scaffolds.fasta.cut_BSPQI_BSSSI_0kb_0labels_NGS_contigs_HYBRID_Export.fasta and Lee_soybean_scaffolds.fasta.cut_BSPQI_BSSSI_0kb_0labels_NGS_contigs_HYBRID_Export_NOT_SCAFFOLDED.fasta, received from NRGene, via Babu Valliyodan, April 6, 2017. Superscaffolds and all remaining scaffolds > 20,000 bp were evaluated by marker placement and using synteny with two other Glycine genome assemblies (Williams 82 and G. soja PI483463) to assemble them into pseudomolecules (and remaining unanchored scaffolds). 
+  - Pseudomolecules were generated, with gap spacers of 1000 Ns, with the command
+  - order_and_orient.pl -OR QC12/oo_Lee_QC12.txt -out QC12/Lee.gnm1.pchr_entire \
+  - -in 02_Lee_scaffs_ge20k_patched_split -reverse -spacer 1000 -entire -v
+
+changes: 
+  - 2017-10-26: split Lee.sc7.p into Lee.sc7.p_1-2303384 and Lee.sc7.p_2330624-25257575 in order to remove mitochondrial insertion. This was a 27240-base insertion, at 99.65% identity, without corresponding insertion in Williams-82, so was likely to be an assembly artifact.
+  - 2017-11-15: changed filename from glyma.Lee.gnm1.BXNC.fna.gz to glyma.Lee.gnm1.BXNC.main_genome.fna.gz . This resulted in a new md5 hash.
+  - 2018-03-01 moved file descriptions and correspondences out to MANIFEST files
+  - 2018-03-01 For consistency with Data Store, prefixed chromosome IDs and scaffold names with glyma.Lee.gnm1.BXNC.
+  - 2018-04-18: added the following unanchored scaffolds to the genome_main file (these are present in the GenBank record but were inadvertently omitted from the BXNC version here): Lee.sc153 Lee.sc187 Lee.sc240 Lee.sc243 Lee.sc258 Lee.sc301 Lee.sc320 Lee.sc340 Lee.sc351 Lee.sc371 Lee.sc392 Lee.sc394 Lee.sc395 Lee.sc405 Lee.sc411 Lee.sc424 Lee.sc450 Lee.sc456 Lee.sc465 Lee.sc466 Lee.sc467 Lee.sc470 Lee.sc479 Lee.sc490 Lee.sc492 Lee.sc497 Lee.sc498
+  - 2018-06-01: added the following unanchored scaffolds to the pchr_by_scaff and pchr_entire directories, for consistency with genome_main and the GenBank record: Lee.sc153 Lee.sc187 Lee.sc240 Lee.sc243 Lee.sc258 Lee.sc301 Lee.sc320 Lee.sc340 Lee.sc351 Lee.sc371 Lee.sc392 Lee.sc394 Lee.sc395 Lee.sc405 Lee.sc411 Lee.sc424 Lee.sc450 Lee.sc456 Lee.sc465 Lee.sc466 Lee.sc467 Lee.sc470 Lee.sc479 Lee.sc490 Lee.sc492 Lee.sc497 Lee.sc498
+  - 2018-06-01: added the scaffolds above to the agp file

@@ -1,0 +1,55 @@
+%YAML 1.2
+identifier: HXNY
+
+provenance: The files in this directory originated from https://legumeinfo.org. The LegumeInfo Data Store is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory. See the respective species directories for information about data used in each comparison.
+
+source: https://legumeinfo.org/
+
+subject: Synteny mappings among the genomes. See genome assemblies indicated in the synteny comparisons.
+
+related_to: See genome assemblies indicated in the synteny comparisons.
+
+scientific_name: See the respective species directories for information about data used in each comparison.
+
+taxid: See the respective species directories for information about data used in each comparison.
+
+bioproject: See the respective species directories for information about data used in each comparison.
+
+scientific_name_abbrev: See the respective species directories for information about data used in each comparison.
+
+genotype: See the respective species directories for information about data used in each comparison.
+
+description: Synteny calculations involves identification of orthologous genes by selecting reciprocal top hits between chromosome pairs from an all-against-all blastp search of genes between two species (evalue threshold of 1e-10), followed by DAGchainer to predict chains of syntenic genes in complete genomes. Proportions of synonymous-site changes (Ks) between orthologs are calculated, and synteny blocks are filtered for block-wise median Ks values. Synteny blocks have also been calculated to show these paralogous WGD-derived duplications.
+
+dataset_doi: none
+
+genbank_accession: See the respective species directories for information about data used in each comparison.
+
+original_file_creation_date: See the respective species directories for information about data used in each comparison.
+
+local_file_creation_date: 2018-06-19
+
+publication_doi: https://doi.org/10.1093/nar/gkv1159
+
+dataset_release_date: 2018-06-19
+
+publication_title: Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family 
+
+contributors: Wei Huang, Steven Cannon
+
+data_curators: Jacqueline Campbell (ORCID: 0000-0003-2787-3955)
+
+public_access_level: public
+
+license: Open
+
+keywords: none
+
+citations: Dash S, Campbell JD, Cannon EKS, Cleary AM, Huang W, Kalberer SR, Karingula V, Rice AG, Singh J, Umale PE, Weeks NT, Wilkey AP, Farmer AD, Cannon SB. (2015) Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family. Nucleic Acids Research 44, D1181-D1188; https://doi.org/10.1093/nar/gkv1159
+
+file_transformation: 
+changes: Begin each change note with a date string, e.g. 2018-03-23 -->
+
+  - 2018-06-19 Changed file names as noted in MANIFEST file
+  - 2018-06-19 Added README and MANIFEST files
+  - 2018-06-19 Changed column 1 and column 9 ID's to include gensp.GENOTYPE.gnm#.ann#

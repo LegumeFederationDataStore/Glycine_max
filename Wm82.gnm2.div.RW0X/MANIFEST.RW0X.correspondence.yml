@@ -1,0 +1,5 @@
+%YAML 1.2
+#filename in this repository			previous name
+glyma.Wm82.gnm2.div.RW0X.SNPdata1.vcf.gz: Pop1_SNPs_minDP2.vcf.gz
+glyma.Wm82.gnm2.div.RW0X.SNPdata2.vcf.gz: Pop2_SNPs_minDP2.vcf.gz
+glyma.Wm82.gnm2.div.RW0X.SNPdata3.vcf.gz: Pop3_SNPs_minDP2.vcf.gz

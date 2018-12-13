@@ -1,0 +1,63 @@
+%YAML 1.2
+
+identifier: 6NZV
+
+provenance: The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://phytozome.jgi.doe.gov
+
+subject: Glycine max accession Lee genome annotation files; JGI annotation version 1 on assembly version 1
+
+related_to: Genome assembly files Glycine_max/Lee.gnm1.BXNC
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: glyma
+
+genotype: Lee
+
+description: Genome annotations for the Glycine max Lee genome assembly
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2018-07
+
+local_file_creation_date: 2018-10
+
+publication_doi: none
+
+dataset_release_date: 2017-09-01
+
+publication_title: none
+
+contributors: Philipp Bayer, Jacqueline Campbell, Steven Cannon, Ting-Fung Chan, Dave Edwards, David Goodstein, Jane Grimwood, Jerry Jenkins, Hon Ming Lam, Henry Nguyen, Jeremy Schmutz, Shengqiang Shu, Qijian Song, Gary Stacey, Robert Stupar, Babu Valliyodan
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: none
+
+citations: none
+
+file_transformation: 
+	- Prefixed fasta files with glyma.Wm82.gnm2. and removed .p suffix:
+		- perl -pi -e 's/>(\S+).p* />glyma.Lee.gnm1.ann1.$1 /' *.faa
+	- Prefixed gene IDs in nucleotide fasta:
+		- perl -pi -e 's/>(\S+) />glyma.Lee.gnm1.ann1.$1 /' *fna
+	- Added chromosome prefix to GFFs:
+		- perl -pi -e 's/^([^#]\S+)/glyma.Lee.gnm1.ann1.$1/' *gff3
+	- Added gene prefixes to GFFs (also replacing version suffixes):
+		- perl -pi -e 's/\.v1\.1//g; s/=GlymaLee./=glyma.Lee.gnm1.ann1.GlymaLee./g' *gff3
+
+changes: 
+  - 2018-10-04 initial Legume Federation Data Store file preparation
+  - 2018-10-10 Applied prefixes to fasta and GFF files - see file_transformations above.

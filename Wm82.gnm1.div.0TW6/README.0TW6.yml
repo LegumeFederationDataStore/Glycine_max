@@ -1,0 +1,61 @@
+%YAML 1.2
+identifier: 0TW6
+
+provenance: Data in this directory derives from the publication 10.1038/srep20728.
+files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: https://soybase.org/data/public/Glycine_max/Wm82.gnm1.div5.0TW6
+
+subject: Variant information in vcf format for 367 Chinese soybean accessions using the NJAU 355K SoySNP array, provided by Dr. Jiao Wang. 
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm1.FCtY / Wm82.a1
+
+scientific_name: 
+  - Glycine max
+
+taxid: 
+  - 3847
+
+bioproject:
+  - none
+
+scientific_name_abbrev: 
+  - glyma
+
+genotype: Multiple genotypes, with variants called with respect to Wm82.a1 
+
+description: Original VCF file received from Dr. Jiao Wang containing variant information for 367 Chinese wild and cultivated soybean accessions genotyped using the NJAU 355K SoySNP array.   
+
+dataset_doi: none
+
+genbank_accession:
+  - none
+
+original_file_creation_date: 2018-09-05
+
+local_file_creation_date: 2017-05-30
+
+publication_doi: 10.1038/srep20728
+
+dataset_release_date: 2018-09-05
+
+publication_title: Development and application of a novel genome-wide SNP array reveals domestication history in soybean
+
+contributors: Jiao Wang, Shanshan Chu, Huairen Zhang, Ying Zhu, Hao Cheng, Deyue Yu
+
+data_curators: Anne V. Brown
+
+public_access_level: public
+
+license: open
+
+keywords: genetic variation, genome-wide association studies, plant domestication, population genetics
+
+citations: Wang, Jiao, et al. Development and application of a novel genome-wide SNP array reveals domestication history in soybean. Scientific reports 6 (2016).
+
+file_transformation: 
+  - none
+
+changes: 
+  - 2018-09-05: Creation of metadata and formatting of files for this repository
+

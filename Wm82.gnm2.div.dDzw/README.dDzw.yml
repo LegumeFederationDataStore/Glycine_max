@@ -1,0 +1,62 @@
+%YAML 1.2
+identifier: dDzw
+
+provenance: Data in this directory derives from the publication doi:10.1111/tpj. and Korean SoyaBase at http://www2.nics.go.kr/koreansoyabase. The Korean SoyaBase repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: onlinelibrary.wiley.com/doi.10.1111/tpj.12755/full, http://www2.nics.go.kr/koreansoyabase
+
+subject: Text, VCF, HapMap, and Flapjack file containing genotype information for 222 Korean accessions. 
+
+related_to: Glycine max Soybean Reference Genome Wm82.a2.v1
+
+scientific_name: Glycine max, Glycine soja
+
+taxid: 3847, 3848
+
+bioproject: none
+
+scientific_name_abbrev: Glyma, Glyso
+
+genotype: Multiple genotypes
+
+description: Original genotype file of 222 Accessions from the Korean soybean germplasm collection genotyped using the Axiom(R) SoyaSNP array downloaded from Korean SoyaBase. Variant Call File(VCF) transformed from the original genotype file of 222 Accessions from the Korean soybean germplasm collection downloaded from Korean SoyaBase. HapMap file containing genotypes of the 222 Korean Soybean accessions. Text file containing genotype information for 222 Korean Soybean accessions to be used as input in Flapjack (Milne I, Shaw P, Stephen G, Bayer M, Cardle L, Thomas WTB, Flavell AJ and Marshall D. 2010. Flapjack graphical genotype visualization. Bioinformatics 26(24), 3133-3134.) Text file containing position information of 170K SNPs.
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2014-12-30
+
+local_file_creation_date: 2016-10-1
+
+publication_doi: 10.1111/tpj.12755
+
+dataset_release_date: 2014-12-30 
+
+publication_title: Development, validation and genetic analysis of a large soybean SNP genotyping array
+
+contributors: Yun-Gyeong Lee, Namhee Jeong, Ji Hong Kim, Kwanghee Lee, Kil Hyun Kim, Ali Pirani, Bo-Keun Ha, Sung-Taeg Kang, Beom-Seok Park, Jung-Kyung Moon, Namshin Kim, and Soon-Chun Jeong
+
+data_curators: Anne V. Brown, Jacqueline D. Campbell
+
+public_access_level: public
+
+license: Open
+
+keywords: GWAS, genotyping, Glycine max, hybrid, SNP array, unanchored scaffold, validation
+
+citations: Lee, Y. G., Jeong, N., Kim, J. H., Lee, K., Kim, K. H., Pirani, A., ... & Jeong, S.C. (2015). Development, validation and genetic analysis of a large soybean SNP genotyping array. The Plant Journal, 81(4), 625-636. 
+
+file_transformation: 
+  - glyma.Wm82.gnm2.div3.dDzw.Original_Korean222.txt.gz                  Transformed into VCF file format using custom script
+  - glyma.Wm82.gnm2.div3.dDzw.SNPdata.vcf.gz                             Transformed into HapMap file format using Tassel 5.0             
+  - glyma.Wm82.gnm2.div3.dDzw.SNPdata.hmp.gz                             Transformed into Flapjack format by removing columns "alleles", "chrom","pos","strand","assembly#","center","protLSID","assayLSID","panelLSID",and"QCcode". Heterozygotes in IUPAC code are converted to double allele code separated by "/" ex. R = A/G. File is then transposed to that SNP IDs are columns and soybean accessions are rows.                
+
+changes: <!-- Free-text notes of any significant changes in the directory -->
+
+  - 2018-02-20 Changed file names from glysp.mixed.div1.dDzw to mixed.gnm2.div3.dDzw to reflect that the variants were called with respect to Williams82 genome assembly 2
+  - 2018-02-20 Renamed mixed.gnm2.div3.dDzw.SNPdata.hmp.txt to mixed.gnm2.div3.dDzw.SNPdata.hmp
+  - 2018-2-28 Changed prefix of marker files from "mixed" to "glyma.Wm82" to reflect that the variants were called with respect to the Williams82 genome assembly
+  - 2018-2-28 created MANIFEST files
+  - 2018-2-28 renamed mixed.gnm.div3.dDzw.SNPdata.hmp to glyma.Wm82.gnm2.div3.dDzw.hmp
+  - 2018-6-18 updated the VCF and Hapmap files. a little over 10,000 SNPs were called on the negative strand, so the allele calls at these positions were switched to the positive strand using PERL: perl -F'\t' -Wlane 'if($F[6] eq "-"){tr/ACTG/TGAC/ foreach(@F[8..$#F])}; print join("\t", @F);' 

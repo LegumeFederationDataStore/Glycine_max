@@ -1,0 +1,11 @@
+%YAML 1.2
+# filename_in_this_repository: description
+glyma.Wm82.gnm1.ann1.DvBy.cds.fna.gz: All gene coding sequences, with alternative splice variants
+glyma.Wm82.gnm1.ann1.DvBy.gene.gff3.gz: GFF3 of all mRNA sequences (UTR, CDS).
+glyma.Wm82.gnm1.ann1.DvBy.protein.faa.gz: Amino acid FASTA of all gene coding sequences, with alternative splice variants
+glyma.Wm82.gnm1.ann1.DvBy.transcripts.fna.gz: Spliced mRNA transcripts (UTR, exons), with alternative splice variants
+glyma.Wm82.gnm1.ann1.DvBy.annotation_info.txt.gz: A summary of annotation details available in Phytozome
+glyma.Wm82.gnm1.ann1.DvBy.cds_primaryTranscript.fna.gz: Gene coding sequences, without alternative splice variants
+glyma.Wm82.gnm1.ann1.DvBy.protein_primaryTranscript.faa.gz: Amino acid FASTA of gene coding sequences, without alternative splice variants
+glyma.Wm82.gnm1.ann1.DvBy.transcript_primaryTranscript.fna.gz: Spliced mRNA transcripts (UTR, exons), without alternative splice variants
+

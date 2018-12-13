@@ -1,0 +1,64 @@
+%YAML 1.2
+
+identifier: T8TQ
+
+provenance: The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://phytozome.jgi.doe.gov
+
+subject: Glycine max accession Williams genome annotation files; JGI annotation version 1 on assembly 4
+
+related_to: Genome assembly files Glycine_max/Wm82.gnm4.4PTR
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: glyma
+
+genotype: Williams 82
+
+description: Genome annotations for the Glycine max Williams 82 v4 genome assembly
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2018-07
+
+local_file_creation_date: 2018-07
+
+publication_doi: none
+
+dataset_release_date: none
+
+publication_title: none
+
+contributors: Philipp Bayer, Jacqueline Campbell, Steven Cannon, Ting-Fung Chan, Dave Edwards, David Goodstein, Jane Grimwood, Jerry Jenkins, Hon Ming Lam, Henry Nguyen, Jeremy Schmutz, Shengqiang Shu, Qijian Song, Gary Stacey, Robert Stupar, Babu Valliyodan
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: open, with usage agreement
+
+keywords: soybean
+
+citations: [initial, provisional citation, pre-publication:] Glycine max cv Willimas 82, assembly version 4, Hudson-Alpha Institute and JGI
+
+file_transformation: 
+  - Prefixed fasta files with glyma.Wm82.gnm2. and removed .p suffix:
+    - perl -pi -e 's/>(\S+).p* />glyma.Wm82.gnm4.ann1.$1 /' *.faa
+  - Prefixed gene IDs in nucleotide fasta:
+    - perl -pi -e 's/>(\S+) />glyma.Wm82.gnm4.ann1.$1 /' *fna
+  - Added chromosome prefix to GFFs:
+    - perl -pi -e 's/^([^#]\S+)/glyma.Wm82.gnm4.$1/' *gff3
+  - Added gene prefixes to GFFs (also replacing version suffixes):
+    - perl -pi -e 's/.Wm82.a4.v1//g; s/=Glyma\./glyma.Wm82.gnm4.ann1.Glyma./g' *gff3
+    
+changes: 
+  - 2018-07-20 Initial preparation for Legume Federation data store.
+  - 2018-08-16 Applied prefixes to fasta and GFF files - see file_transformations above.
+

@@ -1,0 +1,6 @@
+%YAML 1.2
+# filename_in_this_repository: description
+glyma.Wm82.gnm1.FCtY.genome_main.gz: Genome assembly
+glyma.Wm82.gnm1.FCtY.genome_hardmasked.fna.gz: Genome assembly: masked with 'N's
+glyma.Wm82.gnm1.FCtY.genome_softmasked.fna.gz: Genome assembly: masked with lowercase
+

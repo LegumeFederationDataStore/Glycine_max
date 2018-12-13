@@ -1,0 +1,7 @@
+%YAML 1.2
+# filename_in_this_repository: description
+glyma.Wm82.gnm2.div.dDzw.Original_Korean222.txt.gz: Original file downloaded from primary repository (Korean Soya Base SNP)
+glyma.Wm82.gnm2.div.dDzw.SNPdata.vcf.gz: VCF file containing genotype data for 222 diverse Korean soybean lines.
+glyma.Wm82.gnm2.div.dDzw.SNPdata.hmp.gz: HapMap file containing genotype data for 222 diverse Korean soybean lines.
+glyma.Wm82.gnm2.div.dDzw.Flapjack.txt.gz: Text file containing genotype information of each soybean accession. Columns are ssIDs and rows are Accessions. File to be used in conjunction with markerMap as input in the FlapJack program (Milne et al. 2010). 
+glyma.Wm82.gnm2.div.dDzw.markerMap.txt.gz: Text file containing SNP IDs and their relative positions in the Wm82.a2.v1 reference genome. File to be used in conjunction with Flapjack file as input in the FlapJack program (Milne et al. 2010).

@@ -1,0 +1,5 @@
+%YAML 1.2
+# filename is this repository	description
+glyma.Wm82.gnm2.div.RW0X.SNPdata1.vcf.gz: VCF file containing genotype information from Population 1, for details on Population please refer to Wickland et al. 2017 publication
+glyma.Wm82.gnm2.div.RW0X.SNPdata2.vcf.gz: VCF file containing genotype information from Population 2, for details on Population please refer to Wickland et al. 2017 publication
+glyma.Wm82.gnm2.div.RW0X.SNPdata3.vcf.gz: VCF file containing genotype information from Population 3, for details on Population please refer to Wickland et al. 2017 publication

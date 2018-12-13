@@ -1,0 +1,52 @@
+%YAML 1.2
+identifier: Z5VC
+
+provenance: Data in this directory derives from the publication doi:10.1186/1471-2164-15-809. Files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: Personal communication
+
+subject: VCF file containing genotype information for 296 lines from MSU received from Dechun Wang  
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.FCtY / Wm82.a1
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: Glyma
+
+genotype: Multiple genotypes
+
+description: VCF file containing haplotype information for 296 lines from MSU received from Dechun Wang 
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: 2018-11-01
+
+local_file_creation_date: 2018-11-01
+
+publication_doi: 10.1186/1471-2164-15-809
+
+dataset_release_date: 2018-11-01
+
+publication_title: Genome-wide association mapping of quantitative resistance to sudden death syndrome in soybean
+
+contributors: Zixiang Wen, Ruijuan Tan, Jiazheng Yuan, Carmille Bales, Wenyan Du, Shichen Zhang, Martin I Chilvers, Cathy Schmidt, Qijian Song, Perry B Cregan, Dechun Wang
+
+data_curators: Anne V. Brown
+
+public_access_level: public
+
+license: Open
+
+keywords: GWAS, Glycine max, Fusarium virguliforme, SNPs, QTL mapping
+
+citations: Wen Z, Tan R, Yuan J, Bales C, Du W, Zhang S, Chilvers MI, Schmidt C, Song Q, Cregan PB, Wang D. Genome-wide association mapping of quantitative resistance to sudden death syndrome in soybean. BMC genomics. 2014 Dec;15(1):809.
+
+file_transformation: Added "Gm" to the front of each chromosome number: perl -pe 's/^(\d\d){1}/Gm$1/; s/^(\d)/Gm0$1/'                 
+
+changes: <!-- Free-text notes of any significant changes in the directory -->

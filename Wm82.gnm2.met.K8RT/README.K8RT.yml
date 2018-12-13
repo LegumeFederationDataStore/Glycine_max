@@ -1,0 +1,54 @@
+%YAML 1.2
+identifier: K8RT
+
+provenance: The files in this directory are considered the primary repository. See associated publication and files below. 
+
+source: none
+
+subject: Methylation depths relative to the Glycine max Williams82 assembly v2 (Wm82.gnm2)
+
+related_to: Genome assembly files Glycine_max/Wm82.gnm2
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: PRJNA264602
+
+scientific_name_abbrev: glyma
+
+genotype: Williams82
+
+description: Methylation read depths, for several methylation types, with respect to the Glycine max Williams82 v2 genome assembly
+
+dataset_doi: none
+
+genbank_accession: SRX743011, SRX742996, SRX742965, SRX742870, SRX742794, SRX7395935
+
+original_file_creation_date: 2015
+
+local_file_creation_date: 2018-04-19
+
+publication_doi: https://doi.org/10.1104/pp.15.00408
+
+dataset_release_date: 2018-04-19
+
+publication_title: A Comparative Epigenomic Analysis of Polyploidy-Derived Genes in Soybean and Common Bean
+
+contributors: Kyung Do Kim, Moaine El Baidouri, Brian Abernathy, Aiko Iwata-Otsubo, Carolina Chavarro, Michael Gonzales, Marc Libault, Jane Grimwood, Scott A. Jackson
+
+data_curators: Rex Nelson, David Grant, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: methylation, soybean, Glycine max, common bean, Phaseolus vulgaris
+
+citations: Kyung Do Kim, Moaine El Baidouri, Brian Abernathy, Aiko Iwata-Otsubo, Carolina Chavarro, Michael Gonzales, Marc Libault, Jane Grimwood, Scott A. Jackson (2015) A Comparative Epigenomic Analysis of Polyploidy-Derived Genes in Soybean and Common Bean.  Plant Physiology Aug 2015, 168 (4) 1433-1447; DOI: 10.1104/pp.15.00408
+
+file_transformation: 
+  - no changes
+
+changes: 
+  - 2018-04-19 initial collection setup: file renaming, README, etc.

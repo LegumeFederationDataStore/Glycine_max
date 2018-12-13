@@ -1,0 +1,11 @@
+%YAML 1.2
+# filename_in_this_repository: previous_name
+glyma.Lee.gnm1.BXNC.agp.txt.gz: No previous name
+glyma.Lee.gnm1.BXNC.genome_main.fna.gz: No previous name
+glyma.Lee.gnm1.BXNC.genome_hardmasked.fna.gz: No previous name
+glyma.Lee.gnm1.BXNC.genome_softmasked.fna.gz: No previous name
+glyma.Lee.gnm1.BXNC.order_orient.txt.gz: oo_Lee_QC12.txt
+glyma.Lee.gnm1.BXNC.pchr_by_scaff.tar.gz: No previous name
+glyma.Lee.gnm1.BXNC.pchr_entire.tar.gz: No previous name
+glyma.Lee.gnm1.BXNC.scaffolds_split.tar.gz: 02_Lee_scaffs_ge20k_patched_split; derives from NRGene file Lee_soybean_scaffolds.fasta.cut_BSPQI_BSSSI_0kb_0labels_NGS_contigs_HYBRID_Export.fasta
+

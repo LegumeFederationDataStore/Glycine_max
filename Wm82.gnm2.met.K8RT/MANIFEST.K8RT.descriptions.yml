@@ -1,0 +1,9 @@
+%YAML 1.2
+# filename_in_this_repository: description
+glyma.Wm82.gnm2.met.K8RT.methylation_L1.txt.gz: leaf rep1
+glyma.Wm82.gnm2.met.K8RT.methylation_L2.txt.gz: leaf rep2
+glyma.Wm82.gnm2.met.K8RT.methylation_RH1.txt.gz: root hair rep1
+glyma.Wm82.gnm2.met.K8RT.methylation_RH2.txt.gz: root hair rep2
+glyma.Wm82.gnm2.met.K8RT.methylation_SR1.txt.gz: stripped root rep1
+glyma.Wm82.gnm2.met.K8RT.methylation_SR2.txt.gz: stripped root rep2
+

@@ -1,0 +1,5 @@
+%YAML 1.2
+#filename in this repository                  description
+glyma.Wm82.gnm1.div.0TW6.SNPdata.vcf.gz:: Original VCF file from Dr. Jiao Wang containing genotype information for 367 Chinese cultivars genotyped with the NJAU 355K SoySNP array with trailing tabs removed and header lines added.
+glyma.Wm82.gnm1.div.0TW6.hmp.gz: HapMap file of 367 Chinese cultivars genotyped with the NJAU 355K SoySNP array
+glyma.Wm82.gnm1.div.0TW6.SNPList.txt.gz:: Text file containing information about the 355,594 SNPs contained in the SNP array. Information includes, Affty SNP ID, Chromosome, Position, Strand, Probe sequence, Allele A, Allele B, dbSNP ID, Recommendation and Conversion type. 	 

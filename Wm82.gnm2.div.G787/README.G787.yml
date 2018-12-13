@@ -1,0 +1,66 @@
+%YAML 1.2
+identifier: G787
+
+provenance: The files in this directory are considered the primary repository. See associated publication and files below.
+
+source: https://soybase.org/data/public/Glycine_max/Wm82.gnm2.div4.G787
+
+subject: Variant information for 481 soybean accessions (Glycine max and Glycine soja), provided by Babu Valliyodan and Henry Nguyen, as part of the United Soybean Board project to genotype and characterize diverse accessions.
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 / Wm82.a2
+
+scientific_name: 
+  - Glycine max
+  - Glycine soja
+
+taxid: 
+  - 3847
+  - 3848
+
+bioproject:
+  - PRJNA289660
+  - PRJNA384190
+
+scientific_name_abbrev: 
+  - glyma
+  - glyso
+
+genotype: Multiple genotypes, with variants called with respect to Wm82.a2 from JGI - Gmax_275_v2.0.fa
+
+description: Original VCF files received from Juexin Wang and Dr. Babu Valliyodan containing variant data (Single Nucleotide Polymorphisms) for 481 soybean accessions.
+
+dataset_doi: none
+
+genbank_accession:
+  - SRP105183
+  - SRP062245
+
+original_file_creation_date: 2018-08-01
+
+local_file_creation_date: 2018-05-09
+
+publication_doi: none
+
+dataset_release_date: 2018-05-09
+
+publication_title: Map of large-scale soybean genetic variation and its contribution to complex traits, seed composition and root architecture
+
+contributors: Babu Valliyodan, Trupti Joshi, Chengsong Zhu, Juexin Wang, Gunvant Patil, Yang Liu, Silvas Prince, Tri Vuong, Qijian Song, Rupesh Deshmukh, Musket Theresa, Ruth Wagner, Sam Reddy, Allen Sessions, Richard Belanger, David Grant, Philipp Bayer, Rajeev K. Varshney, Anne V. Brown, Steven B. Cannon, David Edwards, Dong Xu, Henry T. Nguyen
+
+data_curators: Anne V. Brown
+
+public_access_level: public
+
+license: open
+
+keywords: soybean, diversity, SNP
+
+citations: none
+
+file_transformation: 
+  - Added header information to all files
+
+changes: 
+  - 2018-08-23: Creation of metadata and formatting of files for this repository
+  - 2018-09-19: Made changes to all the VCF headers. Replaced whitespace with tabs in the sample line of the header (# CHROM) s/ \+/^I/g, replaced "Intergers" with "Interger", replaced "##FORMAT=<ID=PL,Number=3" with "##FORMAT=<ID=PL,Number=G", changed Gm to Chr. 
+  - 2018-09-21: changed samples names USB003, USB004, USB005, etc to USB-003, USB-004, USB-005 in glyma.Wm82.gnm2.div4.G787.USB-40x.vcf.gz, glyma.Wm82.gnm2.div4.G787.USB481.vcf.gz and glyma.Wm82.gnm2.div4.G787.USB481_nosoja.vcf.gz

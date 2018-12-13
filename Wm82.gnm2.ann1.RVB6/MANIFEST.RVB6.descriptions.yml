@@ -1,0 +1,15 @@
+%YAML 1.2
+# filename_in_this_repository: description
+glyma.Wm82.gnm2.ann1.RVB6.annotation_info.txt.gz: Annotation information for all genes: domain IDs, descriptions
+glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt.gz: Gene functional descriptions derived from GFF file
+glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz: Coding sequence (CDS)
+glyma.Wm82.gnm2.ann1.RVB6.cds_primaryTranscript.fna.gz: CDS - primary transcripts only
+glyma.Wm82.gnm2.ann1.RVB6.gene.gff3.gz: Gene models, in GFF format - excluding exons
+glyma.Wm82.gnm2.ann1.RVB6.locus_transcript_name_map.txt.gz: Name correspondences between Wm82.a1.v1 and Wm82.a2.v1 annotations
+glyma.Wm82.gnm2.ann1.RVB6.protein.faa.gz: Protein sequences
+glyma.Wm82.gnm2.ann1.RVB6.protein_primaryTranscript.faa.gz: Protein sequences - primary only
+glyma.Wm82.gnm2.ann1.RVB6.repeatmasked_assembly_v2.0.gff3.gz: Masking locations for the genome, in GFF format
+glyma.Wm82.gnm2.ann1.RVB6.synonym.txt.gz: Name correspondences between Wm82.a1.v1 and Wm82.a2.v1 annotations
+glyma.Wm82.gnm2.ann1.RVB6.transcript.fna.gz: Transcripts - nucleotide sequence
+glyma.Wm82.gnm2.ann1.RVB6.transcript_primaryTranscript.fna.gz: Transcripts - nucleotide sequence; primary only
+

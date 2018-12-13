@@ -1,0 +1,67 @@
+%YAML 1.2
+identifier: RVB6
+
+provenance: The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://phytozome.jgi.doe.gov
+
+subject: Glycine max accession Williams genome annotation files; JGI annotation version 1 on assembly 2
+
+related_to: Genome assembly files Glycine_max/Williams82.gnm2.DTC4
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: glyma
+
+genotype: Williams82
+
+description: Genome annotations for the Glycine max Williams82 v02 genome assembly
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2014-02
+
+local_file_creation_date: 2017-09-01
+
+publication_doi: 10.1038/nature08670
+
+dataset_release_date: 2017-09-01
+
+publication_title: Genome sequence of the palaeopolyploid soybean
+
+contributors: Schmutz J, Cannon SB, Schlueter J, Ma J, Mitros T, Nelson W, Hyten DL, Song Q, Thelen JJ, Cheng J, Xu D, Hellsten U, May GD, Yu Y, Sakurai T, Umezawa T, Bhattacharyya MK, Sandhu D, Valliyodan B, Lindquist E, Peto M, Grant D, Shu S, Goodstein D, Barry K, Futrell-Griggs M, Abernathy B, Du J, Tian Z, Zhu L, Gill N, Joshi T, Libault M, Sethuraman A, Zhang XC, Shinozaki K, Nguyen HT, Wing RA, Cregan P, Specht J, Grimwood J, Rokhsar D, Stacey G, Shoemaker RC, Jackson SA
+
+data_curators: Jacqueline Campbell, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: none
+
+citations: Schmutz J, Cannon SB, Schlueter J, Ma J, Mitros T, Nelson W, Hyten DL, Song Q, Thelen JJ, Cheng J, Xu D, Hellsten U, May GD, Yu Y, Sakurai T, Umezawa T, Bhattacharyya MK, Sandhu D, Valliyodan B, Lindquist E, Peto M, Grant D, Shu S, Goodstein D, Barry K, Futrell-Griggs M, Abernathy B, Du J, Tian Z, Zhu L, Gill N, Joshi T, Libault M, Sethuraman A, Zhang XC, Shinozaki K, Nguyen HT, Wing RA, Cregan P, Specht J, Grimwood J, Rokhsar D, Stacey G, Shoemaker RC, Jackson SA. (2010) Genome sequence of the palaeopolyploid soybean.  Nature 463, 178 - 183; doi:10.1038/nature08670
+
+file_transformation: 
+  - Prefixed gene IDs with glyma.Wm82.gnm2.ann1. in glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.gff3  
+  - Prefixed fasta files with glyma.Wm82.gnm2. and removed .p suffix:
+    - do perl -pi -e 's/>(\S+)\.p />glyma.Wm82.gnm2.$1 /' *.faa
+  - Added chromosome prefix to GFFs:
+    - perl -pi -e 's/^Chr(\d+)/glyma.Wm82.gnm2.Gm$1/; s/^(scaffold_\d+)/glyma.Wm82.gnm2.$1/' glyma.Wm82.gnm2.ann1.RVB6.gene.gff3
+    - perl -pi -e 's/^Chr(\d+)/glyma.Wm82.gnm2.Gm$1/; s/^(scaffold_\d+)/glyma.Wm82.gnm2.$1/' glyma.Wm82.gnm2.ann1.RVB6.repeatmasked_assembly_v2.0.gff3
+  - Prefixed gene IDs in nucleotide fasta:
+    - perl -pi -e 's/>(\S+) />glyma.Wm82.gnm2.$1 /' *fna
+
+changes: 
+  - 2018-02-28 prefixed gene IDs with glyma.Wm82.gnm2.ann1. in gene_models_main.gff3
+  - 2018-03-01 pulled file lists into MANIFEST files
+  - 2018-03-01 rm glyma.Wm82.gnm2.ann1.RVB6.gene_exons.gff3.gz
+  - 2018-03-01 filename cleanup
+  - 2018-07-05 added annotation file glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt, derived from GFF
+  - 2018-08-16 Added "glyma.Wm82.gnm2." prefixes to fasta files and removed ".p" suffix from .faa files
+  - 2018-09-15 Fixed prefixing to glyma.Wm82.gnm2.ann1.

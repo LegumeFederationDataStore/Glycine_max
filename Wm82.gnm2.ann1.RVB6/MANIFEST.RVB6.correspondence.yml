@@ -1,0 +1,15 @@
+%YAML 1.2
+# filename_in_this_repository: previous_name
+glyma.Wm82.gnm2.ann1.RVB6.annotation_info.txt.gz: Gmax_275_Wm82.a2.v1.annotation_info.txt
+glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt.gz: none
+glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz: Gmax_275_Wm82.a2.v1.cds.fa
+glyma.Wm82.gnm2.ann1.RVB6.cds_primaryTranscript.fna.gz: Gmax_275_Wm82.a2.v1.cds_primaryTranscriptOnly.fa
+glyma.Wm82.gnm2.ann1.RVB6.gene.gff3.gz: Gmax_275_Wm82.a2.v1.gene.gff3
+glyma.Wm82.gnm2.ann1.RVB6.locus_transcript_name_map.txt.gz: Gmax_275_Wm82.a2.v1.locus_transcript_name_map.txt
+glyma.Wm82.gnm2.ann1.RVB6.protein.faa.gz: Gmax_275_Wm82.a2.v1.protein.fa
+glyma.Wm82.gnm2.ann1.RVB6.protein_primaryTranscript.faa.gz: Gmax_275_Wm82.a2.v1.protein_primaryTranscriptOnly.fa
+glyma.Wm82.gnm2.ann1.RVB6.repeatmasked_assembly_v2.0.gff3.gz: Gmax_275_Wm82.a2.v1.repeatmasked_assembly_v2.0.gff3
+glyma.Wm82.gnm2.ann1.RVB6.synonym.txt.gz: Gmax_275_Wm82.a2.v1.synonym.txt
+glyma.Wm82.gnm2.ann1.RVB6.transcript.fna.gz: Gmax_275_Wm82.a2.v1.transcript.fa
+glyma.Wm82.gnm2.ann1.RVB6.transcript_primaryTranscript.fna.gz: Gmax_275_Wm82.a2.v1.transcript_primaryTranscriptOnly.fa
+

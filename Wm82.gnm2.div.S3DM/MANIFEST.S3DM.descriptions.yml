@@ -1,0 +1,4 @@
+%YAML 1.2
+#filename is this repository			description
+glyma.Wm82.gnm2.div.S3DM.SNPdata.vcf.gz: Original VCF file received from Wei Wei in Dr. Steve Clough's lab. 
+glyma.Wm82.gnm2.div.S3DM.CultivarList.txt: Accession code table. Text stating the sample number as provided in the VCF file (column 1) and what accession the number stands for (column 2).   

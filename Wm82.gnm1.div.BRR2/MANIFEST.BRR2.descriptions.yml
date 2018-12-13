@@ -1,0 +1,6 @@
+%YAML 1.2
+#filename in this repository					description
+glyma.Wm82.gnm1.div.BRR2.SNPs.parents.vcf.gz		        VCF file containing haplotype inforamtion for the SoyNAM parents genotyped with the 6K SNP chip. 
+glyma.Wm82.gnm1.div.BRR2.SNPs.parents-progeny.vcf.gz	        VCF file containing haplotype informaiton for the the SoyNAM parents and Progeny genotyped with the 6k SNP chip. 
+glyma.Wm82.gnm1.div.BRR2.SNPs.parents.txt			Original text file downloaded from SoyBase containing haplotype information for the SoyNAM parents genotyped with the 6K SNP chip.
+glyma.Wm82.gnm1.div.BRR2.SNPs.parents-progeny.txt		Original text file downloaded from SoyBase containing haplotype information for the SoyNAM parents and progeny genotyped with the 6K SNP chip. 

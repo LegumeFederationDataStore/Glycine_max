@@ -1,0 +1,7 @@
+%YAML 1.2
+# filename_in_this_repository: description
+glyma.Wm82.gnm1.BDYN.vcf.gz: VCF file of the whole U.S. germplasm collection genotyped with SoySNP50K against Williams82 Reference genome a1 (Wm82.a1.v1.1)
+glyma.Wm82.gnm1.BDYN.hmp.txt.gz: HapMap file of the whole U.S. germplasm collection genotyped with SoySNP50K against Williams82 Reference genome a1 (Wm82.a1.v1.1)
+glyma.Wm82.gnm1.BDYN.Flapjack.txt.gz: Text file containing genotype information of each soybean accession. Columns are ssIDs and rows are Accessions. To be used with soysnp50K_wm82.a1_markerMap.txt as input into the Flapjack Program
+glyma.Wm82.gnm1.BDYN.markerMap.txt.gz: Text file containing ssIDs and their positions in Wm82.a1.v1 reference genome. To be used with soysnp50K_wm82.a1_070617_Flapjack.txt.gz as input into the Flapjack Program
+

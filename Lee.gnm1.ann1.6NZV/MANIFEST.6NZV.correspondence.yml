@@ -1,0 +1,11 @@
+%YAML 1.2
+glyma.Lee.gnm1.ann1.6NZV.cds.fna: GmaxLee_510_v1.1.cds.fa
+glyma.Lee.gnm1.ann1.6NZV.cds_primaryTranscript.fna: GmaxLee_510_v1.1.cds_primaryTranscriptOnly.fa
+glyma.Lee.gnm1.ann1.6NZV.gene_models_main.gff3: GmaxLee_510_v1.1.gene.gff3
+glyma.Lee.gnm1.ann1.6NZV.gene_models_exons.gff3: GmaxLee_510_v1.1.gene_exons.gff3
+glyma.Lee.gnm1.ann1.6NZV.protein.faa: GmaxLee_510_v1.1.protein.fa
+glyma.Lee.gnm1.ann1.6NZV.protein_primaryTranscript.faa: GmaxLee_510_v1.1.protein_primaryTranscriptOnly.fa
+glyma.Lee.gnm1.ann1.6NZV.repeatmasking.gff3: GmaxLee_510_v1.1.repeatmasked_assembly_v1.0.gff3
+glyma.Lee.gnm1.ann1.6NZV.transcript.fna: GmaxLee_510_v1.1.transcript.fa
+glyma.Lee.gnm1.ann1.6NZV.transcript_primaryTranscript.fna: GmaxLee_510_v1.1.transcript_primaryTranscriptOnly.fa
+glyma.Lee.gnm1.ann1.6NZV.info_annot.txt: GmaxLee_510_v1.1.annotation_info.txt

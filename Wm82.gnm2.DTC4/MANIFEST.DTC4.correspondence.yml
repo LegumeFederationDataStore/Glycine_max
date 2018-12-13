@@ -1,0 +1,6 @@
+%YAML 1.2
+# filename_in_this_repository: previous_name
+glyma.Wm82.gnm2.DTC4.genome_main.fna.gz: Gmax_275_v2.0.fa.gz
+glyma.Wm82.gnm2.DTC4.genome_hardmasked.fna.gz: Gmax_275_v2.0.hardmasked.fa.gz
+glyma.Wm82.gnm2.DTC4.genome_softmasked.fna.gz: Gmax_275_v2.0.softmasked.fa.gz
+

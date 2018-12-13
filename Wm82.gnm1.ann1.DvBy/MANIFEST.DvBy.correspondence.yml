@@ -1,0 +1,11 @@
+%YAML 1.2
+# filename_in_this_repository: previous_name
+glyma.Wm82.gnm1.ann1.DvBy.cds.fna.gz: Gmax_189_cds.fa.gz
+glyma.Wm82.gnm1.ann1.DvBy.gene.gff3.gz: Gmax_189_gene.gff3.gz
+glyma.Wm82.gnm1.ann1.DvBy.protein.faa.gz: Gmax_189_protein.fa.gz
+glyma.Wm82.gnm1.ann1.DvBy.transcripts.fna.gz: Gmax_189_transcript.fa.gz
+glyma.Wm82.gnm1.ann1.DvBy.annotation_info.txt.gz: Gmax_189_annotation_info.txt.gz
+glyma.Wm82.gnm1.ann1.DvBy.cds_primaryTranscript.fna.gz: Gmax_189_cds_primaryTranscriptOnly.fa.gz
+glyma.Wm82.gnm1.ann1.DvBy.protein_primaryTranscript.faa.gz: Gmax_189_protein_primaryTranscriptOnly.fa.gz
+glyma.Wm82.gnm1.ann1.DvBy.transcript_primaryTranscript.fna.gz: Gmax_189_transcript_primaryTranscriptOnly.fa.gz
+

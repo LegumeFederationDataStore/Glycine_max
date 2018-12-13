@@ -1,0 +1,52 @@
+%YAML 1.2
+identifier: 0SXV
+
+provenance: Data in this directory derives from the publication doi:10.1534/g3.115.022780 and SoyBase.org. Files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://soybase.org/projects/SoyBase.B2014.01.php
+
+subject: The polymorphism information of INDELS and SNPs between Hedou12 and Wm82. 
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.FCtY / Wm82.a1
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: Glyma
+
+genotype: Multiple genotypes
+
+description: Text files containing information of INDELs and SNPs between Hedou12 and Wm82.
+
+dataset_doi: none
+
+genbank_accession: none 
+
+original_file_creation_date: 2018-11-01
+
+local_file_creation_date: 2018-11-01
+
+publication_doi: 10.1534/g3.115.022780
+
+dataset_release_date: 2018-11-01
+
+publication_title: Development of INDEL Markers for Genetic Mapping Based on Whole Genome Resequencing in Soybean
+
+contributors: Xiaofeng Song, Haichao Wei, Wen Cheng, Suxin Yang, Yanxiu Zhao, Xuan Li, Da Luo, Hui Zhang, Xianzhong Feng
+
+data_curators: Anne V. Brown
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, Whole genome resequencing, indel markers, crinkly leaf mutant, genetic mapping
+
+citations: Song X, Wei H, Cheng W, Yang S, Zhao Y, Li X, Luo D, Zhang H, Feng X. Development of INDEL markers for genetic mapping based on whole-genome re-sequencing in soybean. G3: Genes, Genomes, Genetics. 2015 Jan 1:g3-115.
+
+file_transformation: 
+
+changes: <!-- Free-text notes of any significant changes in the directory -->

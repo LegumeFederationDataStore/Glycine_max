@@ -1,0 +1,59 @@
+%YAML 1.2
+identifier: 5KW8 
+
+provenance: Data in this directory derives from the SoyNAM population. Files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: Personal communication
+
+subject: Haplotypes of SoyNAM parents and progeny in a2 
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 / Wm82.a2
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: Glyma
+
+genotype: Multiple genotypes
+
+description: Haplotypes of SoyNAM parents and Progeny genotyped with the 6K SNP Chip (4312 SNPs) with respect to Wm82.a2  
+
+dataset_doi: none
+
+genbank_accession: 
+
+original_file_creation_date: 2018-10-23
+
+local_file_creation_date: 2018-10-23
+
+publication_doi: 10.3835/plantgenome2016.10.0109, 10.3835/plantgenome2016.06.0054, 10.1534/g3.118.200332
+
+dataset_release_date: 2018-10-23
+
+publication_titles: Genetic Characterization of the Soybean Nested Association Mapping Population, 
+Genome-wide Association Mapping of Qualitatively Inherited Traits in a Germplasm Collection
+Genetic Architecture of Soybean Yield and Agronomic Traits  
+
+contributors: Brian W. Diers, Jim Specht, Katy Martin Rainey, Perry Cregan, Qijian Song, Long Yan, Charles Quigley, Brandon D. Jordan, Edward Fickus, Steve Schrieder, Bao-Hua Song, Vishnu Ramasubramanian, George Graef, Randall Nelson, William Schapaugh, Dechun Wang, Grover Shannon, Leah McHale, Stella K. Kantartzi, Alencar Xavier, Rouf Mian, Robert M. Stupar, Jean-Michel Michno, Yong-Qiang Charles An, Wolfgang Goettel, Russell Ward, Carolyn Fox, Alexander E. Lipka, David Hyten, Troy Cary, Aaron Lorenz, Nonoy B. Bandillo, Diego Jarquin, William D. Beavis  
+
+data_curators: Anne V. Brown
+
+public_access_level: private
+
+license: Open
+
+keywords: 
+
+citations: Bandillo, Nonoy B., Aaron J. Lorenz, George L. Graef, Diego Jarquin, David L. Hyten, Randall L. Nelson, and James E. Specht. "Genome-wide association mapping of qualitatively inherited traits in a germplasm collection." The plant genome 10, no. 2 (2017).
+
+Song, Qijian, Long Yan, Charles Quigley, Brandon D. Jordan, Edward Fickus, Steve Schroeder, Bao-Hua Song et al. "Genetic characterization of the soybean nested association mapping population." The plant genome (2017).
+
+Diers, Brian W., Jim Specht, Katy Martin Rainey, Perry Cregan, Qijian Song, Vishnu Ramasubramanian, George Graef et al. "Genetic Architecture of Soybean Yield and Agronomic Traits." G3: Genes, Genomes, Genetics 8, no. 10 (2018): 3367-3375.
+
+file_transformation: Text files were converted to VCF files using an in-house script. 
+
+changes: <!-- Free-text notes of any significant changes in the directory -->
+

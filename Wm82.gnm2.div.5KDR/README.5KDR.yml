@@ -1,0 +1,53 @@
+%YAML 1.2
+identifier: 5KDR
+
+provenance: Data in this directory derives from the publication doi:10.1186/s12864-016-2431-x. Files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: Personal communication
+
+subject: VCF and HapMap file containing genotype information for 28 Brazilian soybean accessions. 
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 / Wm82.a2
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: PRJNA294227
+
+scientific_name_abbrev: Glyma
+
+genotype: Multiple genotypes
+
+description: Original VCF file received from Dr. Francismar Corrêa Marcelino-Guimaraes containing genotype information for28 Brazilian soybean cultivars. HapMap file transformed from the VCF file using TASSEL 5.2.
+
+dataset_doi: none
+
+genbank_accession: SRX1170064, SRX1170065, SRX1170066, SRX1170067, SRX1170068, SRX1170069, SRX1170070, SRX1170071, SRX1170072, SRX1170073, SRX1170074, SRX1170075, SRX1170076, SRX1170077, SRX1170092, SRX1170093, SRX1170094, SRX1170095, SRX1170096, SRX1170953, SRX1170954, SRX1170955, SRX1170956, SRX1170957, SRX1170958, SRX1170959, SRX1170960, SRX1170961
+
+original_file_creation_date: 2016-02-13
+
+local_file_creation_date: 2018-09-10
+
+publication_doi: 10.1186/s12864-016-2431-x
+
+dataset_release_date: 2018-09-10
+
+publication_title: Evaluation of genetic variation among Brazilian soybean cultivars through genome resequencing
+
+contributors: Joao Vitor Maldonado dos Santos, Babu Valliyodan, Trupti Joshi, Saad M. Khan, Yang Liu, Juexin Wang, Tri D. Vuong, Marcelo Fernandes de Oliveira, Francismar Correa Marcelino-Guimaraes, Dong Xu, Henry T. Nguyen, and Ricardo Vilela Abdelnoor.
+
+data_curators: Anne V. Brown
+
+public_access_level: public
+
+license: Open
+
+keywords: Glycine max, Allelic variation, Genetic diversity, Positive selection, CNV
+
+citations: dos Santos, J.V.M., Valliyodan, B., Joshi, T., Khan, S.M., Liu, Y., Wang, J., Vuong, T.D., de Oliveira, M.F., Marcelino-Guimarães, F.C., Xu, D. and Nguyen, H.T., 016. Evaluation of genetic variation among Brazilian soybean cultivars through genome resequencing. BMC genomics, 17(1), p.110.
+
+file_transformation:                 
+
+changes: <!-- Free-text notes of any significant changes in the directory -->
+

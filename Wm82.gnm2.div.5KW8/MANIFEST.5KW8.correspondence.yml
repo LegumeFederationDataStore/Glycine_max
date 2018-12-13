@@ -1,0 +1,7 @@
+%YAML 1.2
+#filename in this repository                                    previous name
+glyma.Wm82.gnm2.div.5KW8.SNPData.parents.vcf.gz               SoyNAMparents.a2.vcf.gz       
+glyma.Wm82.gnm2.div.5KW8.SNPData.parents-progeny.vcf.gz       SoyNAMParents-and-progeny.a2.vcf.gz
+glyma.Wm82.gnm2.div.5KW8.SNPData.parents.txt                  SoyNAMparents-4312-SNP-genotypesWm82.a2.txt 
+glyma.Wm82.gnm2.div.5KW8.SNPData.parents-progeny.txt          SoyNAMparents-progeny-4312SNP-genotypes-Wm82.a2.txt 
+

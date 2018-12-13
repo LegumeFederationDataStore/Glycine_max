@@ -1,0 +1,21 @@
+Data Usage Policy: Glycine max Wm82.a2.v1
+
+Contacts
+
+Gary Stacey (email: staceyg AT missouri DOT edu)
+Randy Shoemaker (email: rcsshoe AT iastate DOT edu)
+Scott Jackson(email: sjackson AT purdue DOT edu)
+Jeremy Schmutz (HudsonAlpha / JGI) (email: )
+Dan Rokhsar (JGI) (email: dsrokhsar AT gmail DOT com) 
+This data set is public. Please cite the following publication
+
+1: Schmutz J, Cannon SB, Schlueter J, Ma J, Mitros T, Nelson W, Hyten DL, Song Q,
+Thelen JJ, Cheng J, Xu D, Hellsten U, May GD, Yu Y, Sakurai T, Umezawa T,
+Bhattacharyya MK, Sandhu D, Valliyodan B, Lindquist E, Peto M, Grant D, Shu S,
+Goodstein D, Barry K, Futrell-Griggs M, Abernathy B, Du J, Tian Z, Zhu L, Gill N,
+Joshi T, Libault M, Sethuraman A, Zhang XC, Shinozaki K, Nguyen HT, Wing RA,
+Cregan P, Specht J, Grimwood J, Rokhsar D, Stacey G, Shoemaker RC, Jackson SA.
+Genome sequence of the palaeopolyploid soybean. Nature. 2010 Jan
+14;463(7278):178-83. doi: 10.1038/nature08670. Erratum in: Nature. 2010 May
+6;465(7294):120. PubMed PMID: 20075913.
+

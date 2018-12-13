@@ -1,0 +1,7 @@
+%YAML 1.2
+#filename in this repository			previous name
+glyma.Wm82.gnm1.div.QXZK.SNPData.vcf.gz: Zhou-SNP-data-sort.vcf.gz
+glyma.Wm82.gnm1.div.QXZK.INDEL.vcf.gz: Zhou2015.indel.vcf.gz
+glyma.Wm82.gnm1.div.QXZK.script1.sh: Zhou2015-SNPtxt-to-vcf.sh
+glyma.Wm82.gnm1.div.QXZK.script2.sh: Zhou2015-INDELtxt-to-vcf.sh
+

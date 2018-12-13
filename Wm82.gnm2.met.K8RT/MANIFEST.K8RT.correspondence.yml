@@ -1,0 +1,9 @@
+%YAML 1.2
+# filename_in_this_repository: previous_name
+glyma.Wm82.gnm2.met.K8RT.methylation_L1.txt.gz: W82_L1_Gm275.ctable.gz   SRX743034, G19833_leaf_rep1
+glyma.Wm82.gnm2.met.K8RT.methylation_L2.txt.gz: W82_L2_Gm275.ctable.gz   SRX743055, G19833_leaf_rep2
+glyma.Wm82.gnm2.met.K8RT.methylation_RH1.txt.gz: W82_RH1_Gm275.ctable.gz  SRX742996, W82_RH_rep1
+glyma.Wm82.gnm2.met.K8RT.methylation_RH2.txt.gz: W82_RH2_Gm275.ctable.gz  SRX743011, W82_RH_rep2
+glyma.Wm82.gnm2.met.K8RT.methylation_SR1.txt.gz: W82_SR1_Gm275.ctable.gz  SRX742870, W82_SR_rep1
+glyma.Wm82.gnm2.met.K8RT.methylation_SR2.txt.gz: W82_SR2_Gm275.ctable.gz  SRX742965, W82_SR_rep2
+

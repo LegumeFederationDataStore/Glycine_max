@@ -1,0 +1,15 @@
+%YAML 1.2
+glyma.Wm82.gnm4.ann1.T8TQ.cds.fna: Coding sequence (CDS)
+glyma.Wm82.gnm4.ann1.T8TQ.cds_low_confidence.fna: Low-confidence CDS predictions
+glyma.Wm82.gnm4.ann1.T8TQ.cds_primaryTranscript.fna: Coding sequence (CDS) - primary transcript
+glyma.Wm82.gnm4.ann1.T8TQ.gene_models_exons.gff3: Gene models, including separate exon records
+glyma.Wm82.gnm4.ann1.T8TQ.gene_models_low_confidence_exons.gff3: Low-confidence gene models
+glyma.Wm82.gnm4.ann1.T8TQ.gene_models_main.gff3: Gene models, excluding separate exon records
+glyma.Wm82.gnm4.ann1.T8TQ.info_locus_transcript_name_map.txt: Correspondences with prior annotations
+glyma.Wm82.gnm4.ann1.T8TQ.info_synonyms.txt: 
+glyma.Wm82.gnm4.ann1.T8TQ.protein.faa: Protein sequences
+glyma.Wm82.gnm4.ann1.T8TQ.protein_low_confidence.faa: Low-confidence protein predictions
+glyma.Wm82.gnm4.ann1.T8TQ.protein_primaryTranscript.faa: Protein sequences - primary only
+glyma.Wm82.gnm4.ann1.T8TQ.repeatmasking.gff3: Coordinates for repeat-masking the assembly
+glyma.Wm82.gnm4.ann1.T8TQ.transcript.fna: Transcripts
+glyma.Wm82.gnm4.ann1.T8TQ.transcript_primaryTranscript.fna: Transcripts - primary only

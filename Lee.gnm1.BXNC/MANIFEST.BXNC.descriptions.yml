@@ -1,0 +1,12 @@
+%YAML 1.2
+# filename_in_this_repository: description
+glyma.Lee.gnm1.BXNC.agp.txt.gz: Tiling path (order and orientation of scaffolds), in AGP format
+glyma.Lee.gnm1.BXNC.genome_main.fna.gz: Pseudomolecule sequences, as intact single sequences per chromosome, with scaffold sequences separated by 1000 Ns
+glyma.Lee.gnm1.BXNC.genome_hardmasked.fna.gz: Repeat-masked genome, masked with Ns
+glyma.Lee.gnm1.BXNC.genome_softmasked.fna.gz: Repeat-masked genome, lower-case masked
+glyma.Lee.gnm1.BXNC.order_orient.txt.gz: Tiling path, in simple format of scaffold order and orientation
+glyma.Lee.gnm1.BXNC.pchr_entire.tar.gz: Directory of pseudomolecule assemblies, with pseudomolecules as intact single sequences per chromosome, with scaffold sequences separated by 1000 Ns
+glyma.Lee.gnm1.BXNC.pchr_by_scaff.tar.gz: Directory of pseudomolecule assemblies, with pseudomolecules as multifasta collections scaffold sequences
+glyma.Lee.gnm1.BXNC.scaffolds_split.tar.gz: Scaffold sequences, unordered, after splitting where necessary, and some gaps patched with smaller scaffolds, where noted.
+```
+
