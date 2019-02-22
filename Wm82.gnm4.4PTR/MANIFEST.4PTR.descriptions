@@ -1,0 +1,11 @@
+%YAML 1.2
+#filename in this repository:     description
+glyma.Wm82.gnm4.4PTR.genome_main.fna.gz:  Genome assembly
+glyma.Wm82.gnm4.4PTR.genome_hardmasked.fna.gz:  Genome assembly - hardmasked
+glyma.Wm82.gnm4.4PTR.genome_softmasked.fna.gz:  Genome assembly - softmasked
+glyma.Wm82.gnm4.4PTR.info_name_hash.txt:  sequence name correspondences between JGI assembly and Data Store assembly
+glyma.Wm82.gnm4.4PTR.BspQI_01_EXP_REFINEFINAL1.cmap.gz: Bionano data 
+glyma.Wm82.gnm4.4PTR.BspQI_Molecules.bnx.gz: Bionano data
+glyma.Wm82.gnm4.4PTR.BssSI_01_EXP_REFINEFINAL1.cmap.gz:  Bionano data
+glyma.Wm82.gnm4.4PTR.BssSI_Molecules.bnx.gz:  Bionano data
+

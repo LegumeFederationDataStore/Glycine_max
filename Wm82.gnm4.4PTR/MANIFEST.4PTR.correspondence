@@ -1,0 +1,13 @@
+%YAML 1.2
+# filename_in_this_repository: previous_name
+glyma.Wm82.gnm4.4PTR.genome_main.fna.gz:  Gmax_508_v4.0.fa.gz
+glyma.Wm82.gnm4.4PTR.genome_hardmasked.fna.gz:  Gmax_508_v4.0.hardmasked.fa.gz
+glyma.Wm82.gnm4.4PTR.genome_softmasked.fna.gz:  Gmax_508_v4.0.softmasked.fa.gz
+glyma.Wm82.gnm4.4PTR.info_name_hash.txt:  none
+glyma.Wm82.gnm4.4PTR.BspQI_01_EXP_REFINEFINAL1.cmap.gz: Wm82_BspQI_01_EXP_REFINEFINAL1.cmap
+glyma.Wm82.gnm4.4PTR.BspQI_Molecules.bnx.gz:  Wm82_BspQI_Molecules.bnx
+glyma.Wm82.gnm4.4PTR.BssSI_01_EXP_REFINEFINAL1.cmap.gz: Wm82_BssSI_01_EXP_REFINEFINAL1.cmap
+glyma.Wm82.gnm4.4PTR.BssSI_Molecules.bnx.gz: Wm82_BssSI_Molecules.bnx
+
+
+

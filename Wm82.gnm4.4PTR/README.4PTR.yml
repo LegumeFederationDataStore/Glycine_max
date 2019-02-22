@@ -1,0 +1,66 @@
+%YAML 1.2
+key_name: 4PTR
+
+provenance:  The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://phytozome.jgi.doe.gov
+
+subject: Glycine max accession Williams 82 genome assembly v4.0
+
+related_to: https://www.ncbi.nlm.nih.gov/assembly/GCA_002905335.1
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: PRJNA19861
+
+scientific_name_abbrev: glyma
+
+genotype: Williams 82
+
+description: Genome assembly for Williams 82. The Williams 82 version 4 assembly (Wm82v4) builds on the widely-used assembly version 2, as well as an incremental version 3 that involved incorporation of BAC sequence to fill contig gaps in 2016. The Wm82v2 assembly was primarily Sanger-based, and new gap-filling in v3 and v4 utilized PacBio-based BAC assemblies targeted to gap regions. The Wm82v4 assembly closed 3,626 gaps and added 5,138,978 bp of sequence relative to Wm82v2, increasing the contig N50 from 233.1 kbp to 419.3 kbp.
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2018-04-23
+
+local_file_creation_date: 2018-04-23
+
+publication_doi: none
+
+dataset_release_date: 2018-04-23
+
+publication_title: none
+
+contributors: Henry T. Nguyen, Babu Valliyodan, Steven Cannon, Hon Ming Lam, Dave Edwards, Philipp Bayer, Jacqueline Campbell, Ting-Fung Chan, Jeremy Schmutz, Qijian Song
+
+data_curators: Jacqueline Campbell, Steven Cannon
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: soybean, Wm82, Williams 82
+
+citations: [initial, provisional citation, pre-publication:] Glycine max cv Lee and Glycine soja PI 483463 sequencing consortium, pre-publication
+
+file_transformation: 
+  - This pseudomolecule assembly derives from file Gmax_508_v4.0.fa and associated masked files, from JGI.
+
+changes: 
+  - 2018-04-23: Initial version
+  - 2018-12-11: added cut-cite information from Bionano data, from Claire Chung & TingFung Chan
+  - 2019-02-22: Added softmasked and hardmasked assemblies from PhytozomeV13. Updated README and MANIFESTs.
+  - 2019-02-22: |
+      For consistency with Data Store, prefixed chromosome IDs and scaffold names with glyma.Wm82.gnm4.
+      perl -pe 's/^>(\S+)/>glyma.Wm82.gnm4.$1 $1/' Gmax_508_v4.0.fa > glyma.Wm82.gnm4.4PTR.genome_main.fna
+      perl -pi -e 's/^>glyma.Wm82.gnm4.Gm\d\d_scaffold_/>glyma.Wm82.gnm4.scaffold_/' glyma.Wm82.gnm4.4PTR.genome_main.fna
+      perl -pi -e 's/^>glyma.Wm82.gnm4.scaffold_/>glyma.Wm82.gnm4.scaffold_/' glyma.Wm82.gnm4.4PTR.genome_main.fna
+      grep '>' glyma.Wm82.gnm4.4PTR.genome_main.fna | perl -pe 's/^>(\S+) /$1\t/'> glyma.Wm82.gnm4.4PTR.info_name_hash.txt
+      bgzip glyma.Wm82.gnm4.4PTR.genome_main.fna 
+      samtools faidx glyma.Wm82.gnm4.4PTR.genome_main.fna.gz 
+
+
