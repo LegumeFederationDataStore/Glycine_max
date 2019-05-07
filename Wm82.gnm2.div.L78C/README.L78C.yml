@@ -1,0 +1,60 @@
+%YAML 1.2
+identifier: L78C
+
+provenance: The files in this directory derives from the publication doi:10.1007/S00122-018-3271-7 and Korean Soyabase at http://k-crop.kr/ksoyabase/index.php
+
+source: Personal Communication from Soon-Chun Jeong; http://k-crop.kr/ksoyabase/index.php
+
+subject: Variant information for 4234 soybean accessions (Glycine max and Glycine soja) genotyped with the Axiom SoyaSNP array containing 180,961 SNPs. 
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 / Wm82.a2
+
+scientific_name: 
+  - Glycine max
+  - Glycine soja
+
+taxid: 
+  - 3847
+  - 3848
+
+bioproject: none
+
+scientific_name_abbrev: 
+  - glyma
+  - glyso
+
+genotype: Multiple genotypes, with variants called with respect to Wm82.a2
+
+description: VCF file containing genotype informatino for 4234 Korean soybean accessions.
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2019-04-26
+
+local_file_creation_date: 2019-04-26
+
+publication_doi: https://doi.org/10.1007/s00122-018-3271-7
+
+dataset_release_date: 2019-04-26
+
+publication_title: Genetic diversity patterns and domestication origin of soybean.
+
+contributors: Soon-Chun Jeong, Jung-Kyung Moon, Soo-Kwon Park, Myung-Shin Kim, Kwanghee Lee, Soo Rang Lee, Namhee Jeong, Man Soo Choi, Namshin Kim, Sung-Taeg Kang, Euiho Park
+
+data_curators: Anne V. Brown
+
+public_access_level: public
+
+license: open
+
+keywords: soybean, diversity, SNP, domestication
+
+citations: Jeong, SC., Moon, JK., Park, SK. et al. Theor Appl Genet (2019) 132: 1179. https://doi.org/10.1007/s00122-018-3271-7
+
+file_transformation: 
+  - Added SoyBase IDs to the thrid column. Therefore the third column is formatted as "Array ID;SoyBase ID"
+
+changes: 
+  - 2019-04-26: Creation of metadata and formatting of files for this repository

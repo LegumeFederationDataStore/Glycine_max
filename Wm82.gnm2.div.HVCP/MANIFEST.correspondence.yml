@@ -1,0 +1,5 @@
+%YAML 1.2
+#filename is this repository                    previous name
+glyma.Wm82.gnm2.div.HVCP.SNPData.vcf.gz         GmHapMap_GT.gz
+glyma.Wm82.gnm2.div.HVCP.AccessionTable.txt     Supplemental_Table_1.txt
+glyma.Wm82.gnm2.div.HVCP.script.py              GmHapMapGt-to-vcf.py 

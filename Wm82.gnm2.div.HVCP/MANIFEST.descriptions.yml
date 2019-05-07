@@ -1,0 +1,5 @@
+%YAML 1.2
+#filename in this repository                    description
+glyma.Wm82.gnm2.div.HVCP.SNPData.vcf.gz         GmHapMap data. VCF file containing genotype information for 1007 soybean accessions from worldwide germplasm collections. 
+glyma.Wm82.gnm2.div.HVCP.AccessionTable.txt     Table containing accession codes and information for the 1007 soybean accessions in the VCF file.
+glyma.Wm82.gnm2.div.HVCP.script.py              Script used to convert GmHapMap_GT text file to vcf file. 

@@ -1,0 +1,1008 @@
+ID in GmHapMap dataset	PI_# & Name	Origin	Depth of Coverage (x)
+Gm_H001	12S01C-074	Canada	4
+Gm_H002	X5302-1-52-3-2-B	Canada	14
+Gm_H003	OACInwood	Canada	22
+Gm_H004	OACDrayton	Canada	17
+Gm_H005	OACCarman	Canada	14
+Gm_H006	DH618(OAC06-18)	Canada	10
+Gm_H007	Acme	Canada	11
+Gm_H008	SECAN08-24C	Canada	17
+Gm_H009	OT09-03	Canada	9
+Gm_H010	12S01C-057	Canada	45
+Gm_H011	12S01C-075	Canada	11
+Gm_H012	X5346-1-3-4-4-B	Canada	11
+Gm_H013	OACOxford	Canada	16
+Gm_H014	QS5055.43G	Canada	17
+Gm_H015	OACMadoc	Canada	13
+Gm_H016	Bloomfield	Canada	15
+Gm_H017	MapleAmber	Canada	21
+Gm_H018	OAC09-35C	Canada	6
+Gm_H019	Pagoda	Canada	14
+Gm_H020	12S04C-043	Canada	8
+Gm_H021	QS06008.6J	Canada	7
+Gm_H022	QS06087.4J	Canada	7
+Gm_H023	QS4004P.4J	Canada	13
+Gm_H024	OACAtwood	Canada	8
+Gm_H025	QS4067P.17j	Canada	24
+Gm_H026	OACStratford	Canada	25
+Gm_H027	QGC16T	Canada	11
+Gm_H028	9004	Canada	6
+Gm_H029	OT02-18	Canada	10
+Gm_H030	QS06099.38J	Canada	10
+Gm_H031	12S01C-045	Canada	3
+Gm_H032	QS07001-6	Canada	5
+Gm_H033	Altesse	Canada	23
+Gm_H034	OACHuron	Canada	4
+Gm_H035	QS5085.8Bp	Canada	11
+Gm_H036	OT11-01	Canada	9
+Gm_H037	ACBravor	Canada	15
+Gm_H038	Heather	Canada	11
+Gm_H039	X5165-1-28-3-5-B(Garry)	Canada	9
+Gm_H040	QS06099.38JB	Canada	10
+Gm_H041	12S02C-024	Canada	9
+Gm_H042	X5377-1-43-4-2-B	Canada	13
+Gm_H043	OACEmbro	Canada	36
+Gm_H044	OAC07-06C	Canada	11
+Gm_H045	OACEclipse	Canada	17
+Gm_H046	SECAN09-42C	Canada	22
+Gm_H047	Morsoy	Canada	20
+Gm_H048	MapleIsle	Canada	13
+Gm_H049	Dundas	Canada	6
+Gm_H050	QS06009.25J	Canada	9
+Gm_H051	QS06094.7J	Canada	11
+Gm_H052	X5367-1-96-4-2-B	Canada	18
+Gm_H053	OACGinty	Canada	27
+Gm_H054	QS4039P.15B(G)	Canada	19
+Gm_H055	QS4042.6Bp	Canada	24
+Gm_H056	AC2001	Canada	21
+Gm_H057	Rodeo	Canada	5
+Gm_H058	9063	Canada	7
+Gm_H059	MapleDonovan	Canada	7
+Gm_H060	QS06012.30J	Canada	21
+Gm_H061	12S02C-026	Canada	3
+Gm_H062	QS4003.28B	Canada	4
+Gm_H063	OACGlencoe	Canada	10
+Gm_H064	OACSalem	Canada	13
+Gm_H065	QS5091.50j	Canada	4
+Gm_H066	Kamichis	Canada	9
+Gm_H067	OT05-18	Canada	17
+Gm_H068	OACEramosa	Canada	6
+Gm_H069	Toki	Canada	7
+Gm_H070	QS06017.35j	Canada	7
+Gm_H071	CERM13.5	Canada	19
+Gm_H072	OACSparta	Canada	19
+Gm_H073	OACClinton	Canada	13
+Gm_H074	OACBright	Canada	8
+Gm_H075	OACGretna	Canada	15
+Gm_H076	ACProteus	Canada	17
+Gm_H077	Roland	Canada	16
+Gm_H078	Jari	Canada	4
+Gm_H079	Katrina	Canada	7
+Gm_H080	OAC_Bayfield	Canada	11Ê
+Gm_H081	AC_Orford	Canada	10
+Gm_H082	Gaillard	Canada	15
+Gm_H083	Mandarin	Canada	10
+Gm_H084	Maple_Presto	Canada	8
+Gm_H085	OAC_Prudence	Canada	8
+Gm_H086	OAC_Prodigy	Canada	9
+Gm_H087	Evans	U.S.A.	9
+Gm_H088	OAC_Ayton	Canada	8
+Gm_H089	OAC_Kent	Canada	10
+Gm_H090	OAC_Wallace	Canada	9
+Gm_H091	AC_Proteina	Canada	11
+Gm_H092	OAC_Thames	Canada	7
+Gm_H093	Dares	Canada	9
+Gm_H094	OAC_Lakeview	Canada	10
+Gm_H095	OAC_Morris	Canada	9
+Gm_H096	Maple_Glen	Canada	12
+Gm_H097	Alta	Canada	9
+Gm_H098	OAC_Champion	Canada	8
+Gm_H099	OT94-47	Canada	7
+Gm_H100	OAC_Petrel/OAC_07-03C	Canada	13
+Gm_H101	Majesta	Canada	8
+Gm_H102	OAC_Erin	Canada	9
+Gm_H103	BR 16	Brazil	13
+Gm_H104	BRS 232	Brazil	15
+Gm_H105	BRS 284	Brazil	9
+Gm_H106	BRS 360 RR	Brazil	13
+Gm_H107	BRS 361	Brazil	15
+Gm_H108	BRS Valiosa RR	Brazil	15
+Gm_H109	BRS Sambaiba	Brazil	15
+Gm_H110	BR/GO 8660	Brazil	11
+Gm_H111	BRSMG 850G RR	Brazil	11
+Gm_H112	BRSMT Pintado	Brazil	11
+Gm_H113	CD 201	Brazil	18
+Gm_H114	Embrapa 48	Brazil	16
+Gm_H115	FT Abyara	Brazil	14
+Gm_H116	FT Cristalina	Brazil	15
+Gm_H117	IAC 8	Brazil	17
+Gm_H118	IAS 5	Brazil	19
+Gm_H119	BR/MG 46	Brazil	16
+Gm_H120	NA 5909 RG	Brazil	12
+Gm_H121	P98Y11	Brazil	14
+Gm_H122	Parana	Brazil	18
+Gm_H123	Santa Rosa	Brazil	16
+Gm_H124	VMax RR	Brazil	11
+Gm_H125	Anta 82	Brazil	21
+Gm_H126	BRS/GO 8360	Brazil	14
+Gm_H127	BRSMT Uirapuru	Brazil	11
+Gm_H128	Doko	Brazil	24
+Gm_H129	Emgopa 301	Brazil	13
+Gm_H130	BRS/GO Chapadoes	Brazil	16
+Gm_H131	PI_548655; Forrest	U.S.A.	5
+Gm_H132	PI_595099; G93-9223	U.S.A.	7
+Gm_H133	PI_595362; Magellan	U.S.A.	4
+Gm_H134	4J105-3-4	SoyNAM	13
+Gm_H135	5M20-2-5-2	SoyNAM	9
+Gm_H136	CL0J095-4-6	SoyNAM	10
+Gm_H137	CL0J173-6-8	SoyNAM	7
+Gm_H138	HS6-3976	SoyNAM	9
+Gm_H139	IA3023	SoyNAM	127
+Gm_H140	LD00-3309	SoyNAM	13
+Gm_H141	LD01-5907	SoyNAM	6
+Gm_H142	LD02-4485	SoyNAM	8
+Gm_H143	LD02-9050	SoyNAM	6
+Gm_H144	LG00-3372	SoyNAM	7
+Gm_H145	LG03-2979	SoyNAM	14
+Gm_H146	LG03-3191	SoyNAM	12
+Gm_H147	LG04-4717	SoyNAM	10
+Gm_H148	LG04-6000	SoyNAM	7
+Gm_H149	LG05-4292	SoyNAM	12
+Gm_H150	LG05-4317	SoyNAM	10
+Gm_H151	LG05-4464	SoyNAM	10
+Gm_H152	LG05-4832	SoyNAM	10
+Gm_H153	LG90-2550	SoyNAM	6
+Gm_H154	LG92-1255	SoyNAM	10
+Gm_H155	LG94-1128	SoyNAM	6
+Gm_H156	LG94-1906	SoyNAM	8
+Gm_H157	LG97-7012	SoyNAM	6
+Gm_H158	LG98-1605	SoyNAM	6
+Gm_H159	Magellan	SoyNAM	4
+Gm_H160	Maverick	SoyNAM	6
+Gm_H161	NE3001	SoyNAM	9
+Gm_H162	PI398_881	SoyNAM	11
+Gm_H163	PI404_188A	SoyNAM	12
+Gm_H164	PI427_136	SoyNAM	14
+Gm_H165	PI437_169B	SoyNAM	16
+Gm_H166	PI507_681B	SoyNAM	12
+Gm_H167	PI518_751	SoyNAM	15
+Gm_H168	PI561_370	SoyNAM	14
+Gm_H169	PI574_486	SoyNAM	10
+Gm_H170	Prohio	SoyNAM	11
+Gm_H171	S06-13640	SoyNAM	6
+Gm_H172	Skylla	SoyNAM	7
+Gm_H173	TN05-3027	SoyNAM	11
+Gm_H174	U03-100612	SoyNAM	15
+Gm_H175	PI_ 518664; Hutcheson	U.S.A. 	13
+Gm_H176	PI_ 548402; Peking	China 	16
+Gm_H177	PI_ 089772 	China 	13
+Gm_H178	PI_ 090763 	China 	13
+Gm_H179	PI_ 404166 	China 	13
+Gm_H180	PI_ 407788A 	South Korea 	16
+Gm_H181	PI_ 424298 	South Korea 	14
+Gm_H182	PI_ 437655 	China 	16
+Gm_H183	PI_ 495017C 	China 	20
+Gm_H184	PI_ 468915 	China 	20
+Gm_H185	PI_ 507354 	Japan 	14
+Gm_H186	PI_ 567305 	China 	18
+Gm_H187	S05-11482	U.S.A. 	12
+Gm_H188	PI_ 548667	U.S.A. 	16
+Gm_H189	PI_ 437654 	China 	15
+Gm_H190	PI_ 567387 	China 	13
+Gm_H191	PI_ 437690 	China 	18
+Gm_H192	PI_ 548402 	China 	13
+Gm_H193	PI_ 088788 	China 	15
+Gm_H194	PI_ 209332 	Japan 	17
+Gm_H195	PI_ 404198B 	China 	18
+Gm_H196	PI_ 424608A 	South Korea 	16
+Gm_H197	PI_ 548316 	China 	16
+Gm_H198	PI_ 567516C 	China 	15
+Gm_H199	PI_ 612611 	North Korea 	20
+Gm_H200	S10-11227 	U.S.A. 	20
+Gm_H201	Holladay (S-100) 	U.S.A. 	16
+Gm_H202	IA3023	U.S.A. 	19
+Gm_H203	Maverick	U.S.A. 	15
+Gm_H204	PI_ 079691-4 	China 	13
+Gm_H205	PI_ 086006 	Japan 	17
+Gm_H206	PI_ 087617 	North Korea 	14
+Gm_H207	PI_ 087631-1 	Japan 	19
+Gm_H208	PI_ 196175 	South Korea 	20
+Gm_H209	HN036	ND	20
+Gm_H210	PI_ 200508 	Japan 	17
+Gm_H211	PI_ 248515 	Japan 	20
+Gm_H212	PI_ 398593 	South Korea 	19
+Gm_H213	PI_ 398595 	South Korea 	18
+Gm_H214	PI_ 398610 	South Korea 	20
+Gm_H215	PI_ 398614 	South Korea 	17
+Gm_H216	PI_ 407729 	China 	19
+Gm_H217	PI_ 407965 	South Korea 	18
+Gm_H218	PI_ 408105A 	South Korea 	18
+Gm_H219	PI_ 416937 	Japan 	18
+Gm_H220	PI_ 424078 	South Korea 	19
+Gm_H221	PI_ 437169B 	Russia	18
+Gm_H222	PI_ 437679 	China 	19
+Gm_H223	PI_ 437863A 	China 	18
+Gm_H224	PI_ 438258 	China 	14
+Gm_H225	PI_ 458515 	China 	21
+Gm_H226	PI_ 464920B 	China 	18
+Gm_H227	PI_ 467312 	China 	17
+Gm_H228	PI_ 471938 	Nepal 	15
+Gm_H229	PI_ 475783B 	China 	15
+Gm_H230	PI_ 518751 	Former Serbia 	15
+Gm_H231	PI_ 542044 	U.S.A. 	23
+Gm_H232	PI_ 547862 	U.S.A. 	20
+Gm_H233	PI_ 548317 	China 	19
+Gm_H234	PI_ 548349 	North Korea 	20
+Gm_H235	PI_ 548415 	China 	16
+Gm_H236	PI_ 548511 	U.S.A. 	16
+Gm_H237	PI_ 548657; Jackson	U.S.A. 	17
+Gm_H238	PI_ 552538; Dunbar	U.S.A. 	16
+Gm_H239	PI_ 561271 	China 	18
+Gm_H240	PI_ 567230 	China 	18
+Gm_H241	PI_ 567336B 	China 	17
+Gm_H242	PI_ 567343 	China 	18
+Gm_H243	PI_ 567354 	China 	15
+Gm_H244	PI_ 567357 	China 	18
+Gm_H245	PI_ 567383 	China 	16
+Gm_H246	PI_ 567519 	China 	18
+Gm_H247	PI_ 567611 	China 	17
+Gm_H248	PI_ 567651 	China 	18
+Gm_H249	PI_ 567690 	China 	15
+Gm_H250	PI_ 567719 	China 	17
+Gm_H251	PI_ 567731 	China 	15
+Gm_H252	PI_ 591539 	U.S.A. 	16
+Gm_H253	PI_ 593258; Macon	ND	19
+Gm_H254	PI_ 594012 	South Korea 	18
+Gm_H255	PI_ 594512A 	China 	18
+Gm_H256	PI_ 594599 	China 	20
+Gm_H257	PI_ 597387; Pana	U.S.A. 	15
+Gm_H258	PI_ 603154 	North Korea 	17
+Gm_H259	PI_ 603170 	North Korea 	18
+Gm_H260	PI_ 603175 	North Korea 	17
+Gm_H261	PI_ 603176A 	North Korea 	25
+Gm_H262	PI_ 603497 	China 	19
+Gm_H263	PI_ 605869A 	Vietnam 	16
+Gm_H264	PI_ 639740	U.S.A. 	16
+Gm_H265	PI_ 647086 	U.S.A. 	14
+Gm_H266	PI_ 658519	ND	18
+Gm_H267	S07-5049 	U.S.A. 	19
+Gm_H268	V71-370 	U.S.A. 	21
+Gm_H269	FC 31721 	ND	19
+Gm_H270	PI_ 438471	Sweden 	20
+Gm_H271	PI_ 417091 	Japan 	24
+Gm_H272	PI_ 417015 	Japan 	22
+Gm_H273	HN108	ND	16
+Gm_H274	33540-15 	ND	18
+Gm_H275	33588-1 	ND	24
+Gm_H276	33598-3 	ND	13
+Gm_H277	8902	Canada	16
+Gm_H278	9702	Canada	20
+Gm_H279	Anta_82_RR 	Brazil	13
+Gm_H280	BMX_Apolo_RR 	Brazil	15
+Gm_H281	BMX_Desafio_RR 	Brazil	9
+Gm_H282	BMX_Magna_RR 	Brazil	13
+Gm_H283	BMX_Potencia_RR 	Brazil	15
+Gm_H284	BMX_Turbo_RR 	Brazil	15
+Gm_H285	BRSGO_Ipameri 	Brazil	15
+Gm_H286	BRSGO_Mineiros_RR 	Brazil	11
+Gm_H287	BRSMG_68_Vencedora 	Brazil	11
+Gm_H288	BRSMG_752S 	Brazil	11
+Gm_H289	BRSMG_810C 	Brazil	18
+Gm_H290	BRS_133 	Brazil	16
+Gm_H291	BRS_239 	Brazil	14
+Gm_H292	BRS_255_RR 	Brazil	15
+Gm_H293	BRS_283 	Brazil	17
+Gm_H294	BRS_313 	Brazil	19
+Gm_H295	BRS_317 	Brazil	16
+Gm_H296	BRS_388_RR 	Brazil	12
+Gm_H297	BRS_7380_RR 	Brazil	14
+Gm_H298	BRS_7980 	Brazil	18
+Gm_H299	BRS_8160_RR 	Brazil	16
+Gm_H300	BRS_Invernada 	Brazil	11
+Gm_H301	BRS_Juliana_RR 	Brazil	21
+Gm_H302	BRS_Macota 	Brazil	14
+Gm_H303	BRS_Tracaja 	Brazil	11
+Gm_H304	BR_23 	Brazil	24
+Gm_H305	Bainong_10 	China	13
+Gm_H306	Bossier 	Brazil	16
+Gm_H307	CD_202 	Brazil	20
+Gm_H308	CD_206 	Brazil	17
+Gm_H309	CD_215 	Brazil	18
+Gm_H310	CD_219_RR 	Brazil	21
+Gm_H311	Changnong_18 	China	14
+Gm_H312	Coker 	U.S.A.	20
+Gm_H313	Dawling 	U.S.A.	20
+Gm_H314	Dongnong_No46 	China	23
+Gm_H315	Embrapa_4 	Brazil	19
+Gm_H316	Embrapa_48 	Brazil	20
+Gm_H317	Emgopa_313 	Brazil	18
+Gm_H318	FT_Cometa 	Brazil	21
+Gm_H319	GJ_0323-4 	ND	20
+Gm_H320	Hefeng_43 	China	19
+Gm_H321	Heihe_43 	China	20
+Gm_H322	Heinong_38 	China	21
+Gm_H323	Heinong_54 	China	21
+Gm_H324	Heinong_No50 	China	20
+Gm_H325	Heinong_No51 	China	22
+Gm_H326	IAC_100 	Brazil	22
+Gm_H327	Ivai 	Brazil	18
+Gm_H328	Jihei_6 	China	23
+Gm_H329	Jilidou_3 	China	23
+Gm_H330	Jilinxiaoli_7 	China	20
+Gm_H331	Jinong_22 	China	21
+Gm_H332	Jinong_27 	China	23
+Gm_H333	Jiunong_22 	China	31
+Gm_H334	Jiunong_35 	China	21
+Gm_H335	Jiyu_100 	China	24
+Gm_H336	Jiyu_108 	China	18
+Gm_H337	Jiyu_109 	China	35
+Gm_H338	Jiyu_204 	China	14
+Gm_H339	Jiyu_205 	China	21
+Gm_H340	Jiyu_301 	China	21
+Gm_H341	Jiyu_40 	China	21
+Gm_H342	Jiyu_406 	China	20
+Gm_H343	Jiyu_48 	China	25
+Gm_H344	Jiyu_50 	China	16
+Gm_H345	Jiyu_63 	China	23
+Gm_H346	Jiyu_68 	China	21
+Gm_H347	Jiyu_80 	China	24
+Gm_H348	Jiyu_86 	China	22
+Gm_H349	Jiyu_90 	China	27
+Gm_H350	Jiyu_94 	China	21
+Gm_H351	Jiyu_97 	China	20
+Gm_H352	Jiyu_99 	China	17
+Gm_H353	Kenfeng_7 	China	18
+Gm_H354	Kenjianbeidou_7 	China	19
+Gm_H355	Kennong_30 	China	22
+Gm_H356	MSoy_5826 	Brazil	19
+Gm_H357	MSoy_6101 	Brazil	18
+Gm_H358	MSoy_8001 	Brazil	16
+Gm_H359	MSoy_8757 	Brazil	14
+Gm_H360	MSoy_8866 	Brazil	15
+Gm_H361	MSoy_9144_RR 	Brazil	17
+Gm_H362	NA_7337_RR 	Brazil	19
+Gm_H363	NK_3363 	Brazil	16
+Gm_H364	OAC_Shire 	Canada	12
+Gm_H365	Ocepar_9 	Brazil	14
+Gm_H366	P98Y30 	ND	18
+Gm_H367	PI_522192A 	ND	16
+Gm_H368	PI_153293 	Belgium	11
+Gm_H369	PI_180521 	Germany	21
+Gm_H370	PI_189868 	France	14
+Gm_H371	PI_189950 	France	11
+Gm_H372	PI_194641 	Sweden	24
+Gm_H373	PI_194648 	Sweden	13
+Gm_H374	PI_196529 	Sweden	16
+Gm_H375	PI_257429 	Germany	20
+Gm_H376	PI_317333 	Japan	17
+Gm_H377	PI_360955A 	Sweden	18
+Gm_H378	PI_360962 	Russia	21
+Gm_H379	PI_360963_A 	Japan	14
+Gm_H380	PI_360964 	Russia	20
+Gm_H381	PI_372403B 	Austria	20
+Gm_H382	PI_384467 	Russia	23
+Gm_H383	PI_391589B 	China	19
+Gm_H384	PI_398295 	South Korea 	20
+Gm_H385	PI_398841 	South Korea	18
+Gm_H386	PI_416757 	Japan	21
+Gm_H387	PI_416762 	Japan	20
+Gm_H388	PI_416930 	Japan	19
+Gm_H389	PI_417095 	Japan	20
+Gm_H390	PI_417391 	Japan	21
+Gm_H391	PI_417511 	France	21
+Gm_H392	PI_423719 	Poland	20
+Gm_H393	PI_423869 	Japan	22
+Gm_H394	PI_423949 	Japan	22
+Gm_H395	PI_427105_B 	China	18
+Gm_H396	PI_427106 	China	23
+Gm_H397	PI_437161 	Russia	23
+Gm_H398	PI_437313 	Russia	20
+Gm_H399	PI_437532 	Ukraine	21
+Gm_H400	PI_438352 	Bulgaria	23
+Gm_H401	PI_438364 	Canada	31
+Gm_H402	PI_438393 	Germany	21
+Gm_H403	PI_438433 	Italy	24
+Gm_H404	PI_438460 	Romania	18
+Gm_H405	PI_438481 	Sweden	35
+Gm_H406	PI_438483 	Sweden	14
+Gm_H407	PI_442031 	Russia	21
+Gm_H408	PI_445791 	Germany	21
+Gm_H409	PI_449458_A 	China	21
+Gm_H410	PI_449459 	China	20
+Gm_H411	PI_464910 	China	25
+Gm_H412	PI_468377 	China	16
+Gm_H413	PI_468903 	China	23
+Gm_H414	PI_470929 	Sweden	21
+Gm_H415	PI_479762 	China	24
+Gm_H416	PI_494182 	Japan	22
+Gm_H417	PI_504484 	Taiwan	27
+Gm_H418	PI_507422 	Japan	21
+Gm_H419	PI_507522 	Japan	20
+Gm_H420	PI_532445 	China	17
+Gm_H421	PI_532467 	Japan	18
+Gm_H422	PI_548515 	Canada	19
+Gm_H423	PI_548535 	U.S.A.	22
+Gm_H424	PI_548539 	Canada	19
+Gm_H425	PI_548607 	Canada	25
+Gm_H426	PI_548628 	U.S.A.	16
+Gm_H427	PI_561282_A 	Russia	23
+Gm_H428	PI_567218 	Russia	21
+Gm_H429	PI_567609 	China	24
+Gm_H430	PI_567787 	Canada	22
+Gm_H431	PI_572243 	Canada	27
+Gm_H432	PI_593970 	Japan	21
+Gm_H433	PI_594527 	China	20
+Gm_H434	PI_603148 	North Korea	17
+Gm_H435	Qing_05-1028 	China	18
+Gm_H436	Qing_07-1115 	China	19
+Gm_H437	Qing_07-1133 	China	22
+Gm_H438	Qing_07-1187 	China	19
+Gm_H439	Qing_09-1600 	China	23
+Gm_H440	Qing_09-18861 	China	21
+Gm_H441	S03-W4 	Canada	24
+Gm_H442	S19-90 	Canada	22
+Gm_H443	Shuinong_15 	China	27
+Gm_H444	TMG_103_RR 	Brazil	21
+Gm_H445	TMG_132_RR 	Brazil	20
+Gm_H446	TMG_4182 	Brazil	16
+Gm_H447	TMG_7262_RR 	Brazil	14
+Gm_H448	Tracy-M 	Brazil	18
+Gm_H449	CAD-PI001	China	4
+Gm_H450	CAD-PI002	China	5
+Gm_H451	CAD-PI003	China	3
+Gm_H452	Zaofeng_918 	China	19
+Gm_H453	PI_339734	Korea	8
+Gm_H454	Xiao Bai Dou	China	9
+Gm_H455	PI_594615	China	13
+Gm_H456	Yu Shi Dou	China	12
+Gm_H457	PI_548445	China	13
+Gm_H458	You PI_Zhi Hei Dou	China	8
+Gm_H459	PI_196166	Korea	12
+Gm_H460	PI_467343	China	10
+Gm_H461	Dong Shan Bai Ma Dou	China	17
+Gm_H462	PI_567525	China	21
+Gm_H463	Sha Xin Dou	China	10
+Gm_H464	Long quan Da Dou	China	10
+Gm_H465	PI_603384	China	11
+Gm_H466	Qing Dou	China	11
+Gm_H467	Nan Guan Xiao PI_Qing	China	10
+Gm_H468	PI_416971	Japan	11
+Gm_H469	PI_594777	China	11
+Gm_H470	PI_548342	Japan	11
+Gm_H471	PI_548485	China	11
+Gm_H472	Xia Hei Dou	China	13
+Gm_H473	PI_Xian Da Zi Huo Cao	China	11
+Gm_H474	PI_507355	Japan	13
+Gm_H475	PI_587552	China	14
+Gm_H476	Yu Jiang Wu Yue Niu Mao Huang	China	11
+Gm_H477	Da Li Huang	China	8
+Gm_H478	PI_603336	China	29
+Gm_H479	PI_437321	Russia	11
+Gm_H480	PI_603596	China	10
+Gm_H481	Tian E Dan	China	22
+Gm_H482	PI_602991	China	12
+Gm_H483	PI_548402	China	10
+Gm_H484	PI_407801	Korea	10
+Gm_H485	PI_Xian Nian Zhuang Liu Yue Xian	China	13
+Gm_H486	Yi Zheng Da Li Huang Dou	China	9
+Gm_H487	PI_398296	Korea	20
+Gm_H488	Da Qing Ren	China	26
+Gm_H489	PI_603420	China	8
+Gm_H490	Hu PI_Dou	China	19
+Gm_H491	Xiang Dou No.4	China	12
+Gm_H492	PI_437654	China	25
+Gm_H493	PI_603675	China	15
+Gm_H494	Da Tun Xiao Hei Dou	China	11
+Gm_H495	PI_437679	China	13
+Gm_H496	PI_548417	Italy	18
+Gm_H497	PI_80837	Japan	18
+Gm_H498	PI_594788	China	11
+Gm_H499	PI_594301	Japan	12
+Gm_H500	PI_578457A	Vietnam	18
+Gm_H501	Tai Xin Niu Mao Huang Yi	China	8
+Gm_H502	Xia Men Teng Zai Dou	China	15
+Gm_H503	PI_603756	China	13
+Gm_H504	PI_80822	China	13
+Gm_H505	PI_438498	U.S.A.	10
+Gm_H506	PI_548391	China	11
+Gm_H507	PI_548379	China	10
+Gm_H508	PI_153262	Belgium	14
+Gm_H509	PI_567298	China	7
+Gm_H510	PI_603318	China	12
+Gm_H511	PI_437653	China	20
+Gm_H512	Tong an Zi Hong Dou	China	7
+Gm_H513	PI_88479	China	15
+Gm_H514	Hong Zhu Dou	China	11
+Gm_H515	Jin Shan Cha Zhu Shi Dou	China	15
+Gm_H516	He Dou	China	15
+Gm_H517	PI_567189A	Vietnam	13
+Gm_H518	PI_548406	China	7
+Gm_H519	PI_84631	Korea	15
+Gm_H520	Xiao Bai Qi	China	5
+Gm_H521	PI_323576	India	10
+Gm_H522	PI_548382	China	11
+Gm_H523	PI_416890	Japan	6
+Gm_H524	PI_587752	China	13
+Gm_H525	PI_424391	Korea	11
+Gm_H526	Pei Xian Xiao You Dou	China	12
+Gm_H527	PI_603357	China	20
+Gm_H528	Hong Hu Liu Yue Bao	China	13
+Gm_H529	PI_437944	China	26
+Gm_H530	Sha Xian Qin Dou	China	14
+Gm_H531	PI_157421	Korea	16
+Gm_H532	Ji Shan De Da Li Hei Dou	China	16
+Gm_H533	Bai Mao Dou	China	12
+Gm_H534	PI_567364	China	16
+Gm_H535	PI_84987	Japan	10
+Gm_H536	PI_548298	China	16
+Gm_H537	PI_423967	Japan	12
+Gm_H538	PI_548488	China	15
+Gm_H539	Guang Rao Da Qing Dou	China	15
+Gm_H540	PI_423954	Japan	19
+Gm_H541	PI_587848	China	10
+Gm_H542	PI_587666	China	6
+Gm_H543	Ni Dou	China	15
+Gm_H544	Sha Xian Wu Dou	China	13
+Gm_H545	PI_399043	Korea	10
+Gm_H546	Ni Ding Hua Mei Dou	China	13
+Gm_H547	PI_84987A	Japan	4
+Gm_H548	PI_567395	China	10
+Gm_H549	PI_317334A	Japan	11
+Gm_H550	Xiao Huang Dou	China	11
+Gm_H551	PI_548456	Korea	10
+Gm_H552	PI_603424A	China	12
+Gm_H553	PI_588053A	China	11
+Gm_H554	PI_594629	China	12
+Gm_H555	Bin Hai Da huang Ke Zi Jia	China	13
+Gm_H556	PI_83945-3	Korea	18
+Gm_H557	Jin Huang No.35	China	15
+Gm_H558	PI_567258	China	10
+Gm_H559	PI_404182	China	10
+Gm_H560	Nian Shi Huang Dou	China	12
+Gm_H561	PI_86024	Japan	10
+Gm_H562	PI_567503	China	8
+Gm_H563	PI_317336	Japan	11
+Gm_H564	Xiao Mi Dou	China	12
+Gm_H565	PI_594579	China	8
+Gm_H566	Xin Xian Xiao Huang Dou	China	14
+Gm_H567	PI_253658B	China	9
+Gm_H568	PI_603516	China	12
+Gm_H569	PI_567071A	Indonesia	10
+Gm_H570	Dai Mi Dou	China	10
+Gm_H571	PI_567293	China	11
+Gm_H572	PI_407849	Korea	12
+Gm_H573	PI_548348	China	10
+Gm_H574	PI_407716	China	12
+Gm_H575	PI_89138	Korea	20
+Gm_H576	Cu Dou	China	11
+Gm_H577	PI_417398	China	10
+Gm_H578	Hei He Xiao Huang Dou	China	11
+Gm_H579	PI_594451	China	9
+Gm_H580	PI_243541	Japan	11
+Gm_H581	Hei Wa Shi Dou	China	9
+Gm_H582	Bai Lu Dou	China	17
+Gm_H583	PI_548657	China	16
+Gm_H584	PI_548362	China	11
+Gm_H585	Jin Da No.70	China	12
+Gm_H586	PI_591432	China	12
+Gm_H587	PI_591495	China	13
+Gm_H588	Jiu Nong No.30	China	12
+Gm_H589	Liao Dou No.15	China	11
+Gm_H590	PI_548634	China	12
+Gm_H591	Jin Da No.62	China	11
+Gm_H592	PI_547459	China	10
+Gm_H593	Su Nong No.25	China	11
+Gm_H594	PI_547409	China	12
+Gm_H595	PI_553047	China	14
+Gm_H596	PI_547562	China	14
+Gm_H597	He Dou No.13	China	9
+Gm_H598	Zhong Huang No.14	China	14
+Gm_H599	PI_591433	China	9
+Gm_H600	Gui Chun No.8	China	13
+Gm_H601	PI_533655	China	10
+Gm_H602	Dong Nong No.26	China	10
+Gm_H603	Jin Da No.75	China	27
+Gm_H604	PI_548638	China	11
+Gm_H605	PI_547460	China	10
+Gm_H606	Shen Li No.3	China	10
+Gm_H607	Jin Da No.26	China	12
+Gm_H608	PI_518750	China	5
+Gm_H609	Chang Nong No.13	China	10
+Gm_H610	PI_548540	China	13
+Gm_H611	Liao Dou No.17	China	12
+Gm_H612	PI_540552	China	16
+Gm_H613	PI_547686	China	13
+Gm_H614	PI_548644	China	25
+Gm_H615	PI_547488	China	8
+Gm_H616	He Feng No.25	China	6
+Gm_H617	PI_548311	China	11
+Gm_H618	PI_518664	China	12
+Gm_H619	Jin Da No.73	China	12
+Gm_H620	PI_591435	China	13
+Gm_H621	Zhong Huang No.50	China	8
+Gm_H622	Nan Nong Cai Dou No.1	China	11
+Gm_H623	PI_548512	China	17
+Gm_H624	PI_547690	China	11
+Gm_H625	PI_548182	China	14
+Gm_H626	PI_515961	China	10
+Gm_H627	PI_548190	China	5
+Gm_H628	PI_548643	Canada	12
+Gm_H629	Zhong Huang No.38	China	11
+Gm_H630	Beijing-IGDB-1	China	11
+Gm_H631	Zhong Huang No.13	China	19
+Gm_H632	Chang Nong No.16	China	9
+Gm_H633	PI_548520	China	12
+Gm_H634	PI_548631	China	11
+Gm_H635	PI_547779	China	11
+Gm_H636	Hei Nong No.51	China	15
+Gm_H637	Lu Dou No.11	China	12
+Gm_H638	Tai Wan No.1	China	14
+Gm_H639	Ji Yu No.90	China	13
+Gm_H640	Fen Dou No.65	China	4
+Gm_H641	PI_548565	China	12
+Gm_H642	Fen Dou No.78	China	22
+Gm_H643	PI_548603	China	7
+Gm_H644	PI_508266	U.S.A.	11
+Gm_H645	Sheng Dou No.9	China	11
+Gm_H646	Zhong Huang No.40	China	10
+Gm_H647	PI_547716	China	10
+Gm_H648	PI_546044	China	14
+Gm_H649	Zhong Huang No.35	China	18
+Gm_H650	Harbin 91-6065	China	14
+Gm_H651	Chang Nong No.15	China	10
+Gm_H652	Jilin 21	China	10
+Gm_H653	Liao Dou No.21	China	12
+Gm_H654	PI_548573	China	12
+Gm_H655	Fen Dou No.85	China	16
+Gm_H656	PI_548604	China	21
+Gm_H657	Hei He No.1	China	11
+Gm_H658	PI_533602	China	9
+Gm_H659	Xi Zang Da Dou No.20	China	12
+Gm_H660	Cang Dou-11	China	10
+Gm_H661	Liao Dou No.11	China	11
+Gm_H662	PI_536635	China	12
+Gm_H663	Dong Nong No.52	China	10
+Gm_H664	Fen Dou No.86	China	12
+Gm_H665	PI_508083	China	11
+Gm_H666	PI_591541	China	12
+Gm_H667	Su Nong No.10	China	14
+Gm_H668	PI_548593	China	17
+Gm_H669	Wei No.6823	China	8
+Gm_H670	Su Nong No.33	China	11
+Gm_H671	PI_634883	China	12
+Gm_H672	Fen Dou No.79	China	9
+Gm_H673	Jin Da No.52	China	11
+Gm_H674	He Feng No.23	China	10
+Gm_H675	PI_591511	China	11
+Gm_H676	Fen Dou No.88	China	16
+Gm_H677	PI_513382	China	22
+Gm_H678	Liao Dou No.3	China	20
+Gm_H679	FC 33243	China	18
+Gm_H680	PI_548985	China	17
+Gm_H681	PI_548477	China	14
+Gm_H682	Su Nong No.14	China	16
+Gm_H683	PI_547680	China	19
+Gm_H684	Zhong Huang No.31	China	14
+Gm_H685	PI_591431	China	18
+Gm_H686	Dong Nong No.51	China	10
+Gm_H687	PI_548524	China	10
+Gm_H688	Shu Xian No.205	China	11
+Gm_H689	Fen Dou No.89	China	12
+Gm_H690	PI_542403	China	13
+Gm_H691	Fen Dou No.63	China	14
+Gm_H692	Tie Feng No.22	China	10
+Gm_H693	ESS001	U.S.A.	50
+Gm_H694	FOR001	U.S.A.	50
+Gm_H695	PI_518664	U.S.A.	17
+Gm_H696	S05-11482	U.S.A.	17
+Gm_H697	PI_548667	U.S.A.	17
+Gm_H698	S10-11227	U.S.A.	17
+Gm_H699	Holladay	U.S.A.	17
+Gm_H700	IA3023	U.S.A.	17
+Gm_H701	Maverick	U.S.A.	17
+Gm_H702	PI_542044	U.S.A.	17
+Gm_H703	PI_547862	U.S.A.	17
+Gm_H704	PI_548511	U.S.A.	17
+Gm_H705	PI_548657	U.S.A.	17
+Gm_H706	PI_552538	U.S.A.	17
+Gm_H707	PI_591539	U.S.A.	17
+Gm_H708	PI_593258	ND	17
+Gm_H709	PI_597387	U.S.A.	17
+Gm_H710	PI_639740	U.S.A.	17
+Gm_H711	PI_647086	U.S.A.	17
+Gm_H712	PI_658519	U.S.A.	17
+Gm_H713	S07-5049	U.S.A.	17
+Gm_H714	V71-370	U.S.A.	17
+Gm_H715	PI_438471	Sweden	17
+Gm_H716	OSAGE	U.S.A.	17
+Gm_H717	ANAND	U.S.A.	17
+Gm_H718	STODDARD	U.S.A.	17
+Gm_H719	JTN 5503	U.S.A.	17
+Gm_H720	PI595645	U.S.A.	17
+Gm_H721	Rend	U.S.A.	17
+Gm_H722	LD04-13265	U.S.A.	17
+Gm_H723	Woodruff	U.S.A.	17
+Gm_H724	Cook	U.S.A.	17
+Gm_H725	N7001	U.S.A.	17
+Gm_H726	Boggs	U.S.A.	17
+Gm_H727	PI_548352	U.S.A.	17
+Gm_H728	PI_548379	Canada	17
+Gm_H729	PI_360955A	U.S.A.	17
+Gm_H730	PI_653935	U.S.A.	17
+Gm_H731	PI_248399	U.S.A.	17
+Gm_H732	PI_619083	U.S.A.	17
+Gm_H733	PI_543795	U.S.A.	17
+Gm_H734	PI_559932	U.S.A.	17
+Gm_H735	Jake	U.S.A.	20
+Gm_H736	PI_548656	Algeria	40
+Gm_H737	FC033243	Algeria	40
+Gm_H738	PI_081785	Australia	40
+Gm_H739	PI_166105	Australia	40
+Gm_H740	PI_180501	Austria	40
+Gm_H741	PI_240664	Belgium	40
+Gm_H742	PI_266806C	Brazil	40
+Gm_H743	PI_360957	Brazil	40
+Gm_H744	PI_361087	Brazil	40
+Gm_H745	PI_361093	Brazil	40
+Gm_H746	PI_437265D	Canada	40
+Gm_H747	PI_438335	Canada	40
+Gm_H748	PI_468908	Canada	40
+Gm_H749	PI_497964A	China	40
+Gm_H750	PI_507180	China	40
+Gm_H751	PI_518668	China	40
+Gm_H752	PI_603458A	China	40
+Gm_H753	PI_548193	China	40
+Gm_H754	PI_548360	China	40
+Gm_H755	PI_548364	China	40
+Gm_H756	PI_548447	China	40
+Gm_H757	PI_548452	China	40
+Gm_H758	PI_548490	China	40
+Gm_H759	PI_548520	China	40
+Gm_H760	PI_548561	China	40
+Gm_H761	PI_549018	China	40
+Gm_H762	PI_549026	China	40
+Gm_H763	PI_549041A	China	40
+Gm_H764	PI_559932	China	40
+Gm_H765	PI_567171	China	40
+Gm_H766	PI_567426	China	40
+Gm_H767	PI_567558	China	40
+Gm_H768	PI_567604A	China	40
+Gm_H769	PI_578309	China	40
+Gm_H770	PI_578495	China	40
+Gm_H771	PI_592523	China	40
+Gm_H772	PI_592954	China	40
+Gm_H773	PI_594307	China	40
+Gm_H774	PI_597476	China	40
+Gm_H775	PI_603426G	China	40
+Gm_H776	PI_603442	China	40
+Gm_H777	PI_548521	Japan	15
+Gm_H778	PI_548524	Japan	15
+Gm_H779	PI_548572	Japan	15
+Gm_H780	PI_548582	Japan	15
+Gm_H781	PI_548619	Japan	40
+Gm_H782	PI_548633	Japan	15
+Gm_H783	PI_548696	Japan	15
+Gm_H784	PI_548978	Japan	15
+Gm_H785	PI_556511	Japan	15
+Gm_H786	PI_567407	Romania	40
+Gm_H787	PI_567782	South Korea	15
+Gm_H788	PI_594922	Ukraine	15
+Gm_H789	PI_598358	U.S.A.	15
+Gm_H790	PI_632418	U.S.A.	15
+Gm_H791	PI_322692	Yugoslavia	40
+Gm_H792	PI_567788	Yugoslavia	40
+Gm_H793	Xiao Hei Dou	China	6
+Gm_H794	Xiao Jin Huang	China	6
+Gm_H795	PI_548533	China	10
+Gm_H796	PI_547786	U.S.A.	5
+Gm_H797	PI_548170	U.S.A.	6
+Gm_H798	PI_548560	U.S.A.	6
+Gm_H799	PI_556511	U.S.A.	6
+Gm_H800	PI 556511_A3127	U.S.A.	7
+Gm_H801	Lai Wu Ba Yue Zha	China	6
+Gm_H802	L60-246	U.S.A.	7
+Gm_H803	Le Shan Da Huang Ke	China	7
+Gm_H804	Lao Shu Pi	China	6
+Gm_H805	Ji Yu No.53	China	6
+Gm_H806	Ji Yu No.63	China	6
+Gm_H807	Kuban BenDi No.1	Russia	6
+Gm_H808	Kuai Qing Pi	China	5
+Gm_H809	Ji Shi Bai Hua	China	6
+Gm_H810	Ji Ti No.2	China	7
+Gm_H811	Ji Xiao No.6	China	6
+Gm_H812	Ji Yu No.45	China	5
+Gm_H813	Ji Nong No.14	China	5
+Gm_H814	Ji Nong No.23	China	6
+Gm_H815	Ji Nong No.9	China	6
+Gm_H816	Ji Qing No.1	China	5
+Gm_H817	Dong Nong No.59	China	6
+Gm_H818	Dong Sheng No.1	China	7
+Gm_H819	DcJSey4500	U.S.A.	6
+Gm_H820	Dong Nong No.44	China	11
+Gm_H821	Di Liu Huang Dou-2	China	6
+Gm_H822	Heng Feng Wu Dou	China	6
+Gm_H823	Shan Xi Ping Ding Huang	China	5
+Gm_H824	Shang Hai Chi Sha Huang Dou	China	5
+Gm_H825	Shan Ning No.12	China	17
+Gm_H826	Shan Ning No.7	China	5
+Gm_H827	Rui Jin Qing Pi Dou	China	6
+Gm_H828	Shan Dou No.125	China	7
+Gm_H829	Rao Shan Gun	China	6
+Gm_H830	Ri Ben Hei Qi	Japan	7
+Gm_H831	Jiu Nong No.27	China	5
+Gm_H832	Jiu Nong No.21	China	7
+Gm_H833	Ni Ri Li Ya No.4	Nigeria	9
+Gm_H834	Niu Mao Huang	China	6
+Gm_H835	Bi Yang Niu Mao Huang	China	5
+Gm_H836	Bi Yang Xiao Zi Huang	China	5
+Gm_H837	Bei Dou No.9	China	10
+Gm_H838	Bei Hai Dao Da Dou	Japan	5
+Gm_H839	Ben Di Da Huang Dou	China	7
+Gm_H840	Ji Huang No.13	China	6
+Gm_H841	Ji Dou No.7	China	7
+Gm_H842	Ji Lin No.21	China	6
+Gm_H843	Ji Ke Dou No.1	China	5
+Gm_H844	Ji Lin No.35	China	6
+Gm_H845	Ji Lin No.31	China	5
+Gm_H846	Ji Lin No.45	China	6
+Gm_H847	Ji No.56	China	5
+Gm_H848	Ji NF No.58	China	6
+Gm_H849	Chang Ji Huang Dou 1	China	6
+Gm_H850	Chang Yuan Xiao Tian E Dan	China	6
+Gm_H851	Feng Xian Sui Dao Huang	China	6
+Gm_H852	Gui Chun No.2	China	9
+Gm_H853	Guo Yang Da Jian Ke	China	6
+Gm_H854	Han Dou No.10	China	7
+Gm_H855	Han No.6192	China	6
+Gm_H856	Gong Xian Er Ji Zao	China	6
+Gm_H857	Guan Nan Chun Hei Dou	China	6
+Gm_H858	Guan Yun Hai Bai Hua	China	6
+Gm_H859	Guan Yun Mao Ye Dou	China	6
+Gm_H860	Chang Dou No.001	China	6
+Gm_H861	Feng Jiao 66-12	China	5
+Gm_H862	He Dou No.10	China	6
+Gm_H863	He Dou No.16	China	5
+Gm_H864	Chang Dou No.003	China	5
+Gm_H865	Xi Chuan Ji Wo Huang	China	5
+Gm_H866	Fu Yang No.335	China	14
+Gm_H867	Fo Ding Zhu	China	6
+Gm_H868	Fen Dou No.28	China	6
+Gm_H869	Fen Dou No.16	China	5
+Gm_H870	Fen Dou No.62	China	6
+Gm_H871	Fen Dou No.56	China	7
+Gm_H872	PolandYellow	Poland	8
+Gm_H873	Ping Yi Liu Yue Xian	China	6
+Gm_H874	PI_567730	China	6
+Gm_H875	PI_567720A	China	6
+Gm_H876	PI_632420	U.S.A.	6
+Gm_H877	PI_59845	Japan	5
+Gm_H878	PI_283327	China	10
+Gm_H879	PI_81775	Japan	6
+Gm_H880	Ping Ding Huang Dou	China	6
+Gm_H881	Ping Ding Hei	China	7
+Gm_H882	Jin Dou No.41	China	6
+Gm_H883	Jin Dou No.43	China	5
+Gm_H884	Jin Dou No.10	China	5
+Gm_H885	Jin Dou No.1	China	13
+Gm_H886	Jin Yi No.31	China	5
+Gm_H887	Jin Yi No.43	China	6
+Gm_H888	Jin Yi No.46	China	5
+Gm_H889	Jin Yi No.51	China	5
+Gm_H890	Jian No.9	China	6
+Gm_H891	Jian No.8	China	7
+Gm_H892	Ji Yuan Shui Bai Dou	China	6
+Gm_H893	Ji Yu No.76	China	6
+Gm_H894	Jin Da No.78-2	China	5
+Gm_H895	Jin Da No.78-1	China	5
+Gm_H896	Jin Da No.74	China	6
+Gm_H897	Jie Jie Si	China	5
+Gm_H898	Peng Xi Da Liu Yue Huang	China	6
+Gm_H899	PI_297543	China	6
+Gm_H900	Pei Xian Hong Mao You	China	6
+Gm_H901	Pei Xian Hong Mao You Jia	China	7
+Gm_H902	Pei Xian La Yang Huang	China	6
+Gm_H903	Pei Xian Si Li Cao	China	6
+Gm_H904	Niu Yan Jing Quan Zi	China	7
+Gm_H905	Pa Man Qing	China	6
+Gm_H906	Pei Xian Ba Yue Zha	China	6
+Gm_H907	Pei Xian Da Bai Jiao	China	6
+Gm_H908	Huang Dou 1	China	5
+Gm_H909	Sui Wu Xing No.1	China	14
+Gm_H910	Sui Xiao Li Dou No.1	China	6
+Gm_H911	Hua Dou No.1	China	6
+Gm_H912	Hua Dou No.2	China	5
+Gm_H913	Huai De Bai Hua Da Li	China	5
+Gm_H914	Shi Sheng Chang Ye	Japan	6
+Gm_H915	Shui Li Zhan	China	5
+Gm_H916	Shi Da Dou No.1	China	6
+Gm_H917	Shi Dou No.411	China	5
+Gm_H918	Wu Xing No.2	China	6
+Gm_H919	Wu Xing No.3	China	6
+Gm_H920	SRF 300	U.S.A.	6
+Gm_H921	Wu Chang Liu Yue Bao	China	5
+Gm_H922	Ke Feng No.6	China	11
+Gm_H923	Ke Feng No.53	China	7
+Gm_H924	Xepcoh BenDi No.1	Ukraine	5
+Gm_H925	Tai Xing Hei Dou	China	6
+Gm_H926	Bai Qi Da Wan Dou	China	5
+Gm_H927	Bai Pi Huang Dou	China	5
+Gm_H928	Beeson	U.S.A.	6
+Gm_H929	Mamotan_F-8_A	U.S.A.	5
+Gm_H930	Mei Guo Da Dou	U.S.A.	6
+Gm_H931	Mei Guo Hak08g	U.S.A.	6
+Gm_H932	Mei No.2	U.S.A.	6
+Gm_H933	He Feng No.35	China	6
+Gm_H934	He Feng No.30	China	6
+Gm_H935	He Long You Tai	China	5
+Gm_H936	Chi Cheng Lyu Huang Dou	China	7
+Gm_H937	Da Bai Pi	China	5
+Gm_H938	Jin Dou No.21	China	6
+Gm_H939	Jin Dou No.16	China	7
+Gm_H940	Ke Xin No.4	China	6
+Gm_H941	Ke Xin No.3	China	6
+Gm_H942	PI_547782	U.S.A.	6
+Gm_H943	PI_547745	U.S.A.	6
+Gm_H944	PI_547539	U.S.A.	6
+Gm_H945	PI_525453	U.S.A.	7
+Gm_H946	PI_423766	South Korea	6
+Gm_H947	PI_317334B	Japan	22
+Gm_H948	PI_547732	U.S.A.	5
+Gm_H949	PI_547612	U.S.A.	11
+Gm_H950	PI_547553	U.S.A.	5
+Gm_H951	PI_547549	U.S.A.	7
+Gm_H952	Ba Hong No.1	China	5
+Gm_H953	Amsoy	U.S.A.	6
+Gm_H954	AGS292	China	12
+Gm_H955	Si Li Yuan	China	6
+Gm_H956	Huang Sha Dou_America	U.S.A.	6
+Gm_H957	Huang Qi	China	6
+Gm_H958	Huang Mao Dou	China	5
+Gm_H959	Huang Dou 2	China	8
+Gm_H960	Si Jiao Qi	China	5
+Gm_H961	Si Jiao Qi Huang Dou	China	6
+Gm_H962	Jin Dou No.501	China	6
+Gm_H963	Jin Yi No.10	China	7
+Gm_H964	Yan Nong No.3	China	7
+Gm_H965	Jin Yi No.52	China	6
+Gm_H966	Jin Yi No.59	China	6
+Gm_H967	Xu Dou No.10	China	6
+Gm_H968	Xu Dou No.11	China	6
+Gm_H969	Xiao Qing Dou	China	7
+Gm_H970	Xin Da Dou No.1	China	5
+Gm_H971	Xin Da Dou No.8	China	6
+Gm_H972	Gao Feng No.1	China	5
+Gm_H973	Fu75-65	China	5
+Gm_H974	Qun Xuan No.1	China	7
+Gm_H975	Qing No.6	China	5
+Gm_H976	Qing Ke Yuan Dou	China	6
+Gm_H977	Qing An Hei Dou	China	6
+Gm_H978	Qin Yang Bai Dou	China	7
+Gm_H979	Lincoln	U.S.A.	7
+Gm_H980	Liao Dou No.31	China	6
+Gm_H981	Lin Dou No.10	China	14
+Gm_H982	Liao Dou No.16	China	6
+Gm_H983	Liao Dou No.22	China	6
+Gm_H984	Liao Dou No.10	China	6
+Gm_H985	Liu Shi Tian Huan Cang	China	7
+Gm_H986	Hei Nong No.48	China	11
+Gm_H987	Da Hei Qi	China	5
+Gm_H988	Yu Xuan No.13	China	9
+Gm_H989	Yu Dou No.22	China	8
+Gm_H990	Yong Cheng Xiao Jian Ke	China	5
+Gm_H991	Wu Gong Yi Wo Feng	China	6
+Gm_H992	You Bian No.30	China	6
+Gm_H993	Yong Cheng Yang Yan Dou	China	6
+Gm_H994	Yu Dou No.12	China	6
+Gm_H995	Yu Dou No.10	China	8
+Gm_H996	Yu Dou No.2	China	7
+Gm_H997	Yu Dou No.18	China	8
+Gm_H998	Zhong Huang No.49	China	7
+Gm_H999	Zhong Huang No.48	China	6
+Gm_H1000	Zou Ping Hei Ma Hu Yan	China	6
+Gm_H1001	Zhong Huang No.30	China	5
+Gm_H1002	Zhong Huang No.28	China	6
+Gm_H1003	Zhong Huang No.39	China	13
+Gm_H1004	Zhong Huang No.41	China	5
+Gm_H1005	Zhong Huang No.4	China	5
+Gm_H1006	Zhong Huang No.44	China	7
+Gm_H1007	Zhong Huang No.43	China	7

@@ -1,0 +1,69 @@
+%YAML 1.2
+identifier: HVCP
+
+provenance: The files in this directory derive from supplementary data from Torkamaneh et al. (2019), publication https://doi.org/10.1101/534578. The primary instance of the data is at https://figshare.com/projects/Soybean_Haplotype_Map_GmHapMap_A_Universal_Resource_for_Soybean_Translational_and_Functional_Genomics/56921 . The FigShare instance is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: https://figshare.com/projects/Soybean_Haplotype_Map_GmHapMap_A_Universal_Resource_for_Soybean_Translational_and_Functional_Genomics/56921
+
+subject: HapMap Data, "GmHapMap", for 1007 accession of Glycine max and Glycine soja, from Torkamaneh et al. (2019)
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 / Wm82.a2
+
+scientific_name: 
+  - Glycine max
+  - Glycine soja
+
+taxid: 
+  - 3847
+  - 3848
+
+bioproject: none
+
+scientific_name_abbrev: 
+  - glyma
+  - glyso
+
+genotype: Multiple genotypes, with variants called with respect to Wm82.a2
+
+description: GmHapMap data. Genotype information for 1007 accessions from worldwide cultivated germplasm collecation.  
+
+dataset_doi: https://doi.org/10.6084/m9.figshare.7388753.v1
+
+genbank_accession: none
+
+original_file_creation_date: 2018-12-05
+
+local_file_creation_date: 2019-05-07
+
+publication_doi: https://doi.org/10.1101/534578
+
+dataset_release_date: 2019-05-07
+
+publication_title: Soybean Haplotype Map (GmHapMap): A Universal Resource for Soybean Translational and Functional Genomics
+
+contributors: Davoud Torkamaneh, Jerome Laroche, Babu Valliyodan, Louise O'Donoughue, Elroy Cober, Istvan Rajcan, Ricardo Vilela Abdelnoor, Avinash Sreedasyam, Jeremy Schmutz, Henry T. Nguyen, Francois Belzile
+
+data_curators: Anne V. Brown
+
+public_access_level: public
+
+license: open
+
+keywords: soybean, diversity, SNP, domestication
+
+citations: Torkamaneh, D., Laroche, J., Valliyodan, B., O'donoughue, L., Cober, E., Rajcan, I., ... & Belzile, F. (2019). Soybean Haplotype Map (GmHapMap): A Universal Resource for Soybean Translational and Functional Genomics. BioRxiv, 534578. 
+
+file_transformation: 
+  - Convert GmHapMap_Gt.gz into a VCF file and add SoyBase names. 
+	- 1) Add REF and ALT alleles
+		- took the first 4 columns fo GmHaMap.VarType.gz, which contain CHROM, POS, REF, ALT and pasted this information to GmHapMap_GT
+		- used AWK '{(if $2 != $6) print "no" }' to make sure the paste worked and the information is the same.
+		- removed columns 5 & 6, which were duplicate CHROM and POS columns 
+		- used GmHapMapGt-to-vcf.py to convert into VCF file format
+		- replaced the header the script created with the header from GmHapMap.var.ann.gz
+	- 2) Assign and Add SoyBase names#
+                - use script assign_names.awk to assign names (A01-00000001) to each SNP and add them to the VCF file. 
+
+changes: 
+  - 2019-05-07: Creation of metadata and formatting of files for this repository
+
