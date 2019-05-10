@@ -62,7 +62,7 @@ file_transformation:
 		- used GmHapMapGt-to-vcf.py to convert into VCF file format
 		- replaced the header the script created with the header from GmHapMap.var.ann.gz
 	- 2) Assign and Add SoyBase names#
-                - use script assign_names.awk to assign names (A01-00000001) to each SNP and add them to the VCF file. 
+                - use script assign_names.awk (available at SoyBase Github) to assign names (A01-00000001) to each SNP and add them to the VCF file. 
 
 changes: 
   - 2019-05-07: Creation of metadata and formatting of files for this repository
