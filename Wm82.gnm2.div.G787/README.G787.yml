@@ -64,3 +64,4 @@ changes:
   - 2018-08-23: Creation of metadata and formatting of files for this repository
   - 2018-09-19: Made changes to all the VCF headers. Replaced whitespace with tabs in the sample line of the header (# CHROM) s/ \+/^I/g, replaced "Intergers" with "Interger", replaced "##FORMAT=<ID=PL,Number=3" with "##FORMAT=<ID=PL,Number=G", changed Gm to Chr. 
   - 2018-09-21: changed samples names USB003, USB004, USB005, etc to USB-003, USB-004, USB-005 in glyma.Wm82.gnm2.div4.G787.USB-40x.vcf.gz, glyma.Wm82.gnm2.div4.G787.USB481.vcf.gz and glyma.Wm82.gnm2.div4.G787.USB481_nosoja.vcf.gz
+  - 2019-05-14: Added SoyBase SNP IDs (A03.0000001 - A03.7869806) to glyma.Wm82.gnm2.div.G787.USB481.vcf.gz
