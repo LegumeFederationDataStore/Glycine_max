@@ -62,7 +62,7 @@ file_transformation:
     - zcat glyma.Wm82.gnm4.ann1.T8TQ.gene_models_main.gff3.gz |
     -    awk -v FS="$TAB" '$3=="gene" {print $9}' |
     -    perl -pe 's/.+Name=//; s/;ancestorIdentifier=[^;]+;/\t/; s/;Dbxref=[^;]+;/\t/; s/Note=//; s/^(\w+\.\w+);/$1\t/; s/%2C/,/ig; s/%3B/;/ig; s/%3D/=/ig' \
-    -    > glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt
+    -    > glyma.Wm82.gnm2.ann1.T8TQ.info_gene_annot.txt
     
 changes: 
   - 2018-07-20 Initial preparation for Legume Federation data store.

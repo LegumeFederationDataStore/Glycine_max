@@ -14,4 +14,4 @@ glyma.Wm82.gnm4.ann1.T8TQ.repeatmasking.gff3: Gmax_508_Wm82.a4.v1.repeatmasked_a
 glyma.Wm82.gnm4.ann1.T8TQ.transcript.fna: Gmax_508_Wm82.a4.v1.transcript.fa
 glyma.Wm82.gnm4.ann1.T8TQ.transcript_primaryTranscript.fna: Gmax_508_Wm82.a4.v1.transcript_primaryTranscriptOnly.fa
 glyma.Wm82.gnm4.ann1.T8TQ.info_annot.txt: Gmax_508_Wm82.a4.v1.annotation_info.txt
-glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt: no prior file; derived from AHRD descriptors from GFF3
+glyma.Wm82.gnm2.ann1.T8TQ.info_gene_annot.txt: no prior file; derived from AHRD descriptors from GFF3
