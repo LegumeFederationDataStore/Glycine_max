@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+# filename in this repository :  previous name
+glyma.Zh13.gnm1.ann1.8VV3.cds.fna :  GWHAAEV00000000.RNA.fasta
+glyma.Zh13.gnm1.ann1.8VV3.cds_primaryTranscript.fna :  GWHAAEV00000000.RNA.fasta
+glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz :  GWHAAEV00000000.gff 
+glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz.tbi :  GWHAAEV00000000.gff  
+glyma.Zh13.gnm1.ann1.8VV3.protein.faa :  GWHAAEV00000000.Protein.faa
+glyma.Zh13.gnm1.ann1.8VV3.protein_primaryTranscript.faa :  GWHAAEV00000000.Protein.faa
+glyma.Zh13.gnm1.ann1.8VV3.info_gene_annot.txt :  none
+glyma.Zh13.gnm1.ann1.8VV3.info_ref_hash.txt : none

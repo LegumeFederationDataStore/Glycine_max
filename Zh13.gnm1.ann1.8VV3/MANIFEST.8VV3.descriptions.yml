@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+# filename_in_this_repository :  description
+glyma.Zh13.gnm1.ann1.8VV3.cds.fna :  Coding sequence - longest splice variant
+glyma.Zh13.gnm1.ann1.8VV3.cds_primaryTranscript.fna :  Coding sequence
+glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz :  Gene models
+glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz.tbi :  Gene models - indexed using tabix
+glyma.Zh13.gnm1.ann1.8VV3.protein.faa :  Protein sequence
+glyma.Zh13.gnm1.ann1.8VV3.protein_primaryTranscript.faa :  Protein sequence - longest splice variant
+glyma.Zh13.gnm1.ann1.8VV3.info_gene_annot.txt :  Functional descriptors, computed on protein sequences using AHRD
+glyma.Zh13.gnm1.ann1.8VV3.info_ref_hash.txt : Name-hash of reference molecule IDs between Genome Warehouse (GWH) and Data Store
