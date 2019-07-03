@@ -1,11 +1,11 @@
 573eb91dec08e68ec19ea3811cfca250 MANIFEST.8VV3.correspondence.yml
 bcaf334718e436e58cb8665b89f26e23 MANIFEST.8VV3.descriptions.yml
-32e6f4771f0d2c454a960a791497e793 README.8VV3.yml
-db27e9d820e25a0b1f39a2b4e79d7d94 glyma.Zh13.gnm1.ann1.8VV3.cds.fna.gz
-a445d70a4e11576a4fb544b4d3a429af glyma.Zh13.gnm1.ann1.8VV3.cds_primaryTranscript.fna.gz
+848cbbdf5f1e2fed31214e817db0e502 README.8VV3.yml
+e6108f986d7a702252645a31aa54da25 glyma.Zh13.gnm1.ann1.8VV3.cds.fna.gz
+d1672fa581fadb3d0075636d24ed7bde glyma.Zh13.gnm1.ann1.8VV3.cds_primaryTranscript.fna.gz
 967736c139a96080962fae2c38f5e937 glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz
 cba446408e0bfaa27e04d3f602927e54 glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz.tbi
 5eaca9c57a8e1ee852fb527379b57116 glyma.Zh13.gnm1.ann1.8VV3.info_gene_annot.txt.gz
 6140ff654732a708e3c51ab01c39f9cd glyma.Zh13.gnm1.ann1.8VV3.info_ref_hash.txt.gz
-7472ec59e23762cc9ae6fa78071c94a9 glyma.Zh13.gnm1.ann1.8VV3.protein.faa
-a3d8fcf73a2abddbe8ed37cd647c086a glyma.Zh13.gnm1.ann1.8VV3.protein_primaryTranscript.faa
+88f95b651aff56adb68ee284220f57ad glyma.Zh13.gnm1.ann1.8VV3.protein.faa.gz
+aca5c9b0a61e9770d3d2e6740dfb05e0 glyma.Zh13.gnm1.ann1.8VV3.protein_primaryTranscript.faa.gz
