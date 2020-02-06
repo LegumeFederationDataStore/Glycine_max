@@ -1,0 +1,9 @@
+%YAML 1.2
+#filename is this repository                         previous name
+glyma.Wm82.gnm2.div.HVCP.SNPData.vcf.gz              GmHapMap_GT.gz
+glyma.Wm82.gnm2.div.HVCP.NonSynSNPs.vcf.gz           GmHapMap_nsPos.vcf.gz
+glyma.Wm82.gnm2.div.HVCP.AccessionTable.txt.gz       Supplemental_Table_1.txt
+glyma.Wm82.gnm2.div.HVCP.script.py.gz                GmHapMapGt-to-vcf.py 
+glyma.Wm82.gnm2.div.HVCP.genotypes_by_gene.hmp.gz    derived using HaplotypeMiner
+glyma.Wm82.gnm2.div.HVCP.haplotypes_by_gene.tsv.gz   derived using HaplotypeMiner
+glyma.Wm82.gnm2.div.HVCP.loss_of_function.xlsx.gz    GmHapMap_LOF_genotypes.xlsx

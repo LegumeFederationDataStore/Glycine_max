@@ -1,0 +1,9 @@
+%YAML 1.2
+#filename in this repository                    description
+glyma.Wm82.gnm2.div.HVCP.SNPData.vcf.gz         GmHapMap data. VCF file containing genotype information for 1007 soybean accessions from worldwide germplasm collections. 
+glyma.Wm82.gnm2.div.HVCP.NonSynSNPs.vcf.gz      Original VCF file filtered to only Non-Synonymous SNPs based off the program SnpEff (SNPs indicated as having a HIGH or MODERATE effect). This File contains 315,993 SNP positions. 
+glyma.Wm82.gnm2.div.HVCP.AccessionTable.txt.gz     Table containing accession codes and information for the 1007 soybean accessions in the VCF file.
+glyma.Wm82.gnm2.div.HVCP.script.py.gz              Script used to convert GmHapMap_GT text file to vcf file. 
+glyma.Wm82.gnm2.div.HVCP.genotypes_by_gene.hmp.gz    Genotypes found in all genes, in hapmap format, with addition of gene name in first column. Derived using HaplotypeMiner
+glyma.Wm82.gnm2.div.HVCP.haplotypes_by_gene.tsv.gz   List of haplotype patterns found in all genes. Custom format. Derived using HaplotypeMiner
+glyma.Wm82.gnm2.div.HVCP.loss_of_function.xlsx.gz    Spreadsheet of loss-of-function genotypes for all genes. Derived using HaplotypeMiner
