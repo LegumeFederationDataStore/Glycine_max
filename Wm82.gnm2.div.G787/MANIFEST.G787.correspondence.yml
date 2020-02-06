@@ -1,9 +1,13 @@
 %YAML 1.2
-#filename in this repository               previous name
-glyma.Wm82.gnm2.div.G787.Soja.vcf: SojaPASS_final.vcf
-glyma.Wm82.gnm2.div.G787.Soy106.vcf: Soy106PASS_final.vcf
-glyma.Wm82.gnm2.div.G787.USB-15x.vcf: USB-15xPASS_final.vcf
-glyma.Wm82.gnm2.div.G787.USB-40x.vcf: USB-40xPASS_final.vcf
-glyma.Wm82.gnm2.div.G787.USB481_nosoja.vcf: USB481_nosojaPASS_final.vcf
-glyma.Wm82.gnm2.div.G787.USB481.vcf: USB481PASS_final.vcf
-glyma.Wm82.gnm2.div.G787.USB481_list.txt: USB481_accession_List.txt
+#filename in this repository                      previous name
+glyma.Wm82.gnm2.div.G787.Soja.vcf:                SojaPASS_final.vcf
+glyma.Wm82.gnm2.div.G787.Soy106.vcf:              Soy106PASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB-15x.vcf:             USB-15xPASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB-40x.vcf:             USB-40xPASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB481_nosoja.vcf:       USB481_nosojaPASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB481.vcf:              USB481PASS_final.vcf
+glyma.Wm82.gnm2.div.G787.USB481_list.txt:         USB481_accession_List.txt
+glyma.Wm82.gnm2.div.G787.snpEff.gff3:             USB_481.gff3
+glyma.Wm82.gnm2.div.G787.sampled_25Kpos.fna:      USB481-25Kpos-72219_mod5_wNames.fna
+glyma.Wm82.gnm2.div.G787.sampled_25Kpos.nh.txt:   USB481-25Kpos-72219_mod5_wNames.nh 
+glyma.Wm82.gnm2.div.G787.sampled_25Kpos.pxml.txt: USB481-25Kpos-72219_mod5_wNames.pxml
