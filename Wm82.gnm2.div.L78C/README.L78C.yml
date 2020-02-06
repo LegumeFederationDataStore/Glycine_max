@@ -58,3 +58,4 @@ file_transformation:
 
 changes: 
   - 2019-04-26: Creation of metadata and formatting of files for this repository
+  - 2019-07-15: Addition of VCF file only containing Non-Synonymous SNPs. 
