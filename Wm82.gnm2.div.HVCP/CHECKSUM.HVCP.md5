@@ -1,6 +1,10 @@
-16b134cf2638b9db1442daad631cf010 MANIFEST.correspondence.yml
-4a22b2cb95627f1cfa1c40f04962a913 MANIFEST.descriptions.yml
-7e208edac1dbbaf0d4dd32219071f722 README.HVCP.yml
-3980de0c2c5ffb39ff3323809149aaf3 glyma.Wm82.gnm2.div.HVCP.AccessionTable.txt
+eb7daa0a9cfc8579535e2acdd4862690 MANIFEST.correspondence.yml
+deafaf716cca204571827572cfe329ee MANIFEST.descriptions.yml
+d01d03939401108d6ec30d2cefda34ba README.HVCP.yml
+5d7d08ac6a07c0186bb64b6ca50b59ac glyma.Wm82.gnm2.div.HVCP.AccessionTable.txt.gz
+44dbdd92a895c6b90ba66c2c7fe5a234 glyma.Wm82.gnm2.div.HVCP.NonSynSNPs.vcf.gz
 9713da1c17dbc008c2d8ef6c91a2de0f glyma.Wm82.gnm2.div.HVCP.SNPData.vcf.gz
-61deab37035a7c3bfce5222aafd027e4 glyma.Wm82.gnm2.div.HVCP.script.py
+1a290e49591f20c641acbb436c57c665 glyma.Wm82.gnm2.div.HVCP.genotypes_by_gene.hmp.gz
+edc1e4522611452f891166e1d1021c3f glyma.Wm82.gnm2.div.HVCP.haplotypes_by_gene.tsv.gz
+574f54c3d9e2c400344fcc57f7dc381d glyma.Wm82.gnm2.div.HVCP.loss_of_function.xlsx.gz
+6e2f27d935badbba88f8b744a3e4a500 glyma.Wm82.gnm2.div.HVCP.script.py.gz

@@ -62,8 +62,13 @@ file_transformation:
 		- used GmHapMapGt-to-vcf.py to convert into VCF file format
 		- replaced the header the script created with the header from GmHapMap.var.ann.gz
 	- 2) Assign and Add SoyBase names#
-                - use script assign_names.awk (available at SoyBase Github) to assign names (A01-00000001) to each SNP and add them to the VCF file. 
+    - use script assign_names.awk (available at SoyBase Github) to assign names (A01-00000001) to each SNP and add them to the VCF file. 
+  - For glyma.Wm82.gnm2.div.HVCP.haplotypes_by_gene.hmp, combined separate files-per-gene from haps/ from Dr. Torkamaneh into a single file, adding gene name in column 1
+  - For glyma.Wm82.gnm2.div.HVCP.genotypes_by_gene.hmp, combined separate files-per-gene from haps/ from Dr. Torkamaneh into a single file, adding gene name in column 1
 
 changes: 
   - 2019-05-07: Creation of metadata and formatting of files for this repository
+  - 2019-07-12: Creation of VCF file glyma.Wm82.gnm2.div.HVCP.NonSynSNPs.vcf.gz, a VCF file only containing Non-Synonymous SNP locations. Using the file GmHapMap.var.ann file produced from SnpEff, SNPs that were annotated as having a HIGH or MODERATE effect were assigned as Non-Synonymous SNP locations. These locations were then extracted from the original VCF file glyma.Wm82.gnm2.div.HVCP.SNPData.vcf.gz to produce this new VCF file. 
+  - 2020-01-06: Added files: glyma.Wm82.gnm2.div.HVCP.genotypes_by_gene.hmp.gz glyma.Wm82.gnm2.div.HVCP.haplotypes_by_gene.tsv.gz glyma.Wm82.gnm2.div.HVCP.loss_of_function.xlsx.gz . See file transformation notes above.
+
 
