@@ -66,4 +66,5 @@ changes:
   - 2018-02-28 Changed prefix of marker files from "glysp.mixed" to "glyma.Wm82" to reflect that the variants were called with respect to the Williams82 genome assembly
   - 2018-02-28 Created MANIFEST files
   - 2018-02-28 Changed "glysp.mixed.gnm2.div2.892R.hmp.txt.gz" to Wm82.gnm2.div2.892R.hmp.gz"
-  - 2018-06-20 Changed formatting of publications in this file
+  - 2018-06-20 Changed formatting of publications in this file 
+  - 2020-02-18 Added PI to Common Name conversion table
