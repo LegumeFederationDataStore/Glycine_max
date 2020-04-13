@@ -1,8 +1,10 @@
 0cd61cf357ae84ef372b75f75bf2569e MANIFEST.6NZV.correspondence.yml
 34fb51675f28df7526dc9b7fff9321a6 MANIFEST.6NZV.descriptions.yml
-7c69446c292cd864cd61a919cf4648b0 README.6NZV.yml
+d12a1a944512ac54779994838b6d56f0 README.6NZV.yml
 b9a9c85d1ac78af61c49f49186f6aa3c glyma.Lee.gnm1.ann1.6NZV.cds.fna.gz
 0e0d3781bd7fd14f8f22a9a715f2063f glyma.Lee.gnm1.ann1.6NZV.cds_primaryTranscript.fna.gz
+0c2cf3eed90d71295e701431f0c69858 glyma.Lee.gnm1.ann1.6NZV.gene_models.gff3.gz
+eec7860f6b7301c5106f93d44c28d02f glyma.Lee.gnm1.ann1.6NZV.gene_models.gff3.gz.tbi
 bd3232f736cccfc9fdfa5076fa6beb11 glyma.Lee.gnm1.ann1.6NZV.gene_models_exons.gff3.gz
 45a7859efa63e827eaea994ca4e303fd glyma.Lee.gnm1.ann1.6NZV.gene_models_main.gff3.gz
 ee33ef62413172ed3072db57dc147a3a glyma.Lee.gnm1.ann1.6NZV.gene_models_main.gff3.gz.tbi
