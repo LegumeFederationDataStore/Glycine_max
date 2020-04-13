@@ -1,5 +1,5 @@
-b2f7cf408ceccbd366a94ce40b6413fe MANIFEST.G787.correspondence.yml
-425d0e7643f118bbfefc74294154f31b MANIFEST.G787.descriptions.yml
+ff23fd0432f8cddc8745b3274979ef6f MANIFEST.G787.correspondence.yml
+ecf010f7520d49224ee2a8395b8e8431 MANIFEST.G787.descriptions.yml
 98db2a5dbc152bb657042a96e08f9f37 README.G787.yml
 304d3a772f461a9e46826d06ede0adaf glyma.Wm82.gnm2.div.G787.Soja.vcf.gz
 9b1d6f8f3b6fa9c412ba667324fb7ebf glyma.Wm82.gnm2.div.G787.Soy106.vcf.gz
@@ -7,7 +7,7 @@ f5bcdf9cdc0aea32c9138665e398e20a glyma.Wm82.gnm2.div.G787.USB-15x.vcf.gz
 0fa456d930a6a33a04d9bd4afc432082 glyma.Wm82.gnm2.div.G787.USB-40x.vcf.gz
 26f200e06205de3dcfe65c67dccf7f95 glyma.Wm82.gnm2.div.G787.USB481.vcf.gz
 998744b8a9307c0a716803377b04d8e9 glyma.Wm82.gnm2.div.G787.USB481.vcf.gz.tbi
-d76180d15f9766f0105816e433b7d36c glyma.Wm82.gnm2.div.G787.USB481_list.txt
+8970180de0e9ebe1e783a36640ae5c2b glyma.Wm82.gnm2.div.G787.USB481_list.txt.gz
 4ce91f0bdf8d8250cad5ed64a4f60455 glyma.Wm82.gnm2.div.G787.USB481_nosoja.vcf.gz
 104414ed6091a2d5e5960d324b274dd9 glyma.Wm82.gnm2.div.G787.sampled_25Kpos.fna.gz
 e122f4e3a161335ee60787dcdb527be6 glyma.Wm82.gnm2.div.G787.sampled_25Kpos.nh.txt.gz
