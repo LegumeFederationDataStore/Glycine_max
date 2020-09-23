@@ -9,3 +9,4 @@ glyma.Lee.gnm1.ann1.6NZV.repeatmasking.gff3: Coordinates for repeat-masking the 
 glyma.Lee.gnm1.ann1.6NZV.transcript.fna: Transcripts
 glyma.Lee.gnm1.ann1.6NZV.transcript_primaryTranscript.fna: Transcripts - primary only
 glyma.Lee.gnm1.ann1.6NZV.info_annot.txt: Table of gene annotations from Phytozome
+glyma.Lee.gnm1.ann1.6NZV.legfed_v1_0.M65K.gfa.tsv.gz: gene family assignments

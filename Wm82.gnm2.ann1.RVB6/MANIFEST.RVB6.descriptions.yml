@@ -12,4 +12,4 @@ glyma.Wm82.gnm2.ann1.RVB6.repeatmasked_assembly_v2.0.gff3.gz: Masking locations 
 glyma.Wm82.gnm2.ann1.RVB6.synonym.txt.gz: Name correspondences between Wm82.a1.v1 and Wm82.a2.v1 annotations
 glyma.Wm82.gnm2.ann1.RVB6.transcript.fna.gz: Transcripts - nucleotide sequence
 glyma.Wm82.gnm2.ann1.RVB6.transcript_primaryTranscript.fna.gz: Transcripts - nucleotide sequence; primary only
-
+glyma.Wm82.gnm2.ann1.RVB6.legfed_v1_0.M65K.gfa.tsv.gz: gene family assignments

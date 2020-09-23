@@ -65,3 +65,4 @@ changes:
   - 2018-07-05 added annotation file glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt, derived from GFF
   - 2018-08-16 Added "glyma.Wm82.gnm2." prefixes to fasta files and removed ".p" suffix from .faa files
   - 2018-09-15 Fixed prefixing to glyma.Wm82.gnm2.ann1.
+  - 2020-09-22 added gene family assignments

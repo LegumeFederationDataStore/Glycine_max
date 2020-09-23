@@ -68,3 +68,4 @@ changes:
   - 2018-07-20 Initial preparation for Legume Federation data store.
   - 2018-08-16 Applied prefixes to fasta and GFF files - see file_transformations above.
   - 2019-05-28 Added files .info_gene_annot.txt and .info_annot.txt
+  - 2020-09-22 added gene family assignments

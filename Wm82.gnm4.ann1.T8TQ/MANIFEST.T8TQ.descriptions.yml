@@ -15,3 +15,4 @@ glyma.Wm82.gnm4.ann1.T8TQ.transcript.fna: Transcripts
 glyma.Wm82.gnm4.ann1.T8TQ.transcript_primaryTranscript.fna: Transcripts - primary only
 glyma.Wm82.gnm4.ann1.T8TQ.info_annot.txt: Annotation information for all genes: domain IDs, descriptions - from Phytozome
 glyma.Wm82.gnm4.ann1.T8TQ.info_gene_annot.txt: Annotation information for all genes - derived from AHRD functional descriptions
+glyma.Wm82.gnm4.ann1.T8TQ.legfed_v1_0.M65K.gfa.tsv.gz: gene family assignments
