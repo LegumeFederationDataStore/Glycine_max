@@ -8,4 +8,4 @@ glyma.Wm82.gnm1.ann1.DvBy.annotation_info.txt.gz: A summary of annotation detail
 glyma.Wm82.gnm1.ann1.DvBy.cds_primaryTranscript.fna.gz: Gene coding sequences, without alternative splice variants
 glyma.Wm82.gnm1.ann1.DvBy.protein_primaryTranscript.faa.gz: Amino acid FASTA of gene coding sequences, without alternative splice variants
 glyma.Wm82.gnm1.ann1.DvBy.transcript_primaryTranscript.fna.gz: Spliced mRNA transcripts (UTR, exons), without alternative splice variants
-
+glyma.Wm82.gnm1.ann1.DvBy.legfed_v1_0.M65K.gfa.tsv.gz: gene family assignments

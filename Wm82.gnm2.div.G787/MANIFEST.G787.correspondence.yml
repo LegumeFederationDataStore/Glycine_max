@@ -11,4 +11,6 @@ glyma.Wm82.gnm2.div.G787.snpEff.gff3.gz:             USB_481.gff3
 glyma.Wm82.gnm2.div.G787.sampled_25Kpos.fna.gz:      USB481-25Kpos-72219_mod5_wNames.fna
 glyma.Wm82.gnm2.div.G787.sampled_25Kpos.nh.txt.gz:   USB481-25Kpos-72219_mod5_wNames.nh 
 glyma.Wm82.gnm2.div.G787.sampled_25Kpos.pxml.txt.gz: USB481-25Kpos-72219_mod5_wNames.pxml
-glyma.Wm82.gnm2.div.G787.USB481.vcf.gz.tbi:          USB481PASS_final.vcf.tbi       
+glyma.Wm82.gnm2.div.G787.USB481.vcf.gz.tbi:          USB481PASS_final.vcf.tbi
+glyma.Wm82.gnm2.div.G787.snpEff_Gsoja.gff.gz:        Soja.snpEff.gff
+glyma.Wm82.gnm2.div.G787.snpEff_Gmax.gff.gz:         Max.snpEff.gff

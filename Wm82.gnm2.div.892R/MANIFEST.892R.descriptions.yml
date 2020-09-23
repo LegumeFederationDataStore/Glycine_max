@@ -5,4 +5,5 @@ glyma.Wm82.gnm2.div.892R.vcf.gz.tbi: Indexed VCF file using tabix
 glyma.Wm82.gnm2.div.892R.hmp.gz: HapMap file of the whole U.S. germplasm collection genotyped with SoySNP50K against Williams82 Reference genome a2 (Wm82.a2.v1)                    
 glyma.Wm82.gnm2.div.892R.Flapjack.txt.gz: Text file containing genotype information of each soybean accession. Columns are ssIDs and rows are Accessions. To be used with glysp.mixed.div2.892R.Wm82.a2.markerMap.txt as input into the Flapjack Program 
 glyma.Wm82.gnm2.div.892R.markerMap.txt.gz: Text file containing ssIDs and their positions in Wm82.a2.v1 reference genome. To be used with glysp.mixed.div2.892R.Wm82.a2.Flapjack.txt.gz as input into the Flapjack Program
-glyma.Wm82.gnm2.div.892R.PIconversion.txt.gz: Text file containing the PI# for each accession in the U.S. germplasm collection and what the common name is in the second column. 
+glyma.Wm82.gnm2.div.892R.PIconversion.txt.gz: Text file containing the PI# for each accession in the U.S. germplasm collection and what the common name is in the second column.
+glyma.Wm82.gnm2.div.892R.AlleleCount.tsv.gz: Tab separated file containing allele counts for each cultivar in the dataset. 

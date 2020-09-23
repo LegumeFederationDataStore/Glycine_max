@@ -3,7 +3,7 @@ identifier: G787
 
 provenance: The files in this directory are considered the primary repository. See associated publication and files below.
 
-source: https://soybase.org/data/public/Glycine_max/Wm82.gnm2.div4.G787
+source: https://soybase.org/data/public/Glycine_max/Wm82.gnm2.div.G787
 
 subject: Variant information for 481 soybean accessions (Glycine max and Glycine soja), provided by Babu Valliyodan and Henry Nguyen, as part of the United Soybean Board project to genotype and characterize diverse accessions.
 
@@ -59,6 +59,7 @@ citations: none
 
 file_transformation: 
   - Added header information to all files
+  - SnpEff output was transformed from VCF to GFF using script provided at https://github.com/awilkey/vcf-to-gff-demo. 
 
 changes: 
   - 2018-08-23: Creation of metadata and formatting of files for this repository
@@ -67,3 +68,4 @@ changes:
   - 2019-05-14: Added SoyBase SNP IDs (A03.0000001 - A03.7869806) to glyma.Wm82.gnm2.div.G787.USB481.vcf.gz
   - 2019-08-12: Added glyma.Wm82.gnm2.div.G787.snpEff.gff3 file
   - 2020-01-03: Added alignment and phylogeny files: glyma.Wm82.gnm2.div.G787.sampled_25Kpos.tree and glyma.Wm82.gnm2.div.G787.sampled_25Kpos.fna
+  - 2020-07-15: Added two new SnpEff output files: glyma.Wm82.gnm2.div.G787.snpEff_Gsoja.gff.gz & glyma.Wm82.gnm2.div.G787.snpEff_Gmax.gff.gz

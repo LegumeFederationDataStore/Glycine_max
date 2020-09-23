@@ -55,3 +55,4 @@ changes:
   - 2018-03-01 filename cleanup
   - 2018-07-12 Changed fasta header in all *.fna and *.faa files (perl -pi -e 's/>Glyma/>glyma.Wm82.gnm1.ann1./')
   - 2018-09-15 fixes to the above (s/>Glyma/>glyma.Wm82.gnm1.ann1.Glyma/)
+  - 2020-09-22 added gene family assignments

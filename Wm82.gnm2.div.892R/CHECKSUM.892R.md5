@@ -1,8 +1,9 @@
-24331920b8cb76ed69750cbea8bf2d49 MANIFEST.892R.correspondence.yml
-bbf8286fb6cccd68eef51f5c2aafe4a1 MANIFEST.892R.descriptions.yml
-a7d0218c47ecea20dabdd2b7e656f338 README.892R.yml
+6c59d59d5c047705b611c7c59e07f814 MANIFEST.892R.correspondence.yml
+50d6d73515a94ac0241003943b5e05a9 MANIFEST.892R.descriptions.yml
+2f008d8ca0fbd93e3dc3b2d1a482f9cb README.892R.yml
+887c1e73c7447a6dfea6b2fc1d31d4f8 glyma.Wm82.gnm2.div.892R.AlleleCount.tsv.gz
 7d79beeb40844266776b7a28e1d76ea5 glyma.Wm82.gnm2.div.892R.Flapjack.txt.gz
-beacc3d2577708443010202cc763ac1b glyma.Wm82.gnm2.div.892R.PIconversion.txt.gz
+02456f1cbf9e37abb2cd30d90557a398 glyma.Wm82.gnm2.div.892R.PIconversion.txt
 bedbb3ec23632bfc5830e79998364721 glyma.Wm82.gnm2.div.892R.hmp.gz
 d57020237157a5516eefc4faae8e64ca glyma.Wm82.gnm2.div.892R.markerMap.txt.gz
 14c897f2ddc5347cd73f4ec1f4c55aaa glyma.Wm82.gnm2.div.892R.vcf.gz
