@@ -1,0 +1,14 @@
+# BUSCO version is: 4.1.2 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2020-09-10, number of species: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file /data/ctc/busco_legfed/protein_primarytranscript/glyma.Lee.gnm1.ann1.6NZV.protein_primaryTranscript.faa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:99.3%[S:44.0%,D:55.3%],F:0.6%,M:0.1%,n:1614	   
+	1603	Complete BUSCOs (C)			   
+	710	Complete and single-copy BUSCOs (S)	   
+	893	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	1	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   

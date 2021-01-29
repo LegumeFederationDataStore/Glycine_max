@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.4 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2020-09-10, number of species: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file /erdos/ctc/ncbi_busco_test/legfed/usr/local/www/data/public/Glycine_max/Wm82.gnm2.DTC4/glyma.Wm82.gnm2.DTC4.genome_main.fna
+# BUSCO was run in mode: genome
+
+	***** Results: *****
+
+	C:98.4%[S:49.6%,D:48.8%],F:0.5%,M:1.1%,n:1614	   
+	1589	Complete BUSCOs (C)			   
+	801	Complete and single-copy BUSCOs (S)	   
+	788	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	17	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   
