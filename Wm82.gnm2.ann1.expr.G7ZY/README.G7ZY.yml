@@ -1,0 +1,62 @@
+%YAML 1.2
+identifier: G7ZY
+
+provenance: The files in this directory derive from supplementary data from Libault et al., 2010a and b Libault M et al., An integrated transcriptome atlas of the crop model Glycine max, and its use in comparative analyses in plants., Plant J, 2010 Apr 7;63(1):86-99 and Libault M et al., Complete transcriptome of the sobean root hair cell, a single-cell model, and its alteration in response to Bradyrhizobium japonicum infection, Plant Physiol, 2009 Nov 20;152(2):541-52. The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: 
+
+subject: Soybean gene expression atlas from 14 conditions (Libault et al., 2010). Corresponds with glyma1 expression browser at https://legumeinfo.org/lis_expression/all
+
+related_to: Glycine max Soybean Reference Genome Wm82.gnm2.DTC4 / Wm82.a2
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: 
+
+scientific_name_abbrev: glyma
+
+genotype: Multiple genotypes, with variants called with respect to Wm82.a2
+
+description: Soybean gene expression atlas from 14 conditions (Libault et al., 2010). 
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: 2010
+
+local_file_creation_date: 2020
+
+publication_doi: 
+
+dataset_release_date: 2020
+
+publication_title: 
+  - An integrated transcriptome atlas of the crop model Glycine max, and its use in comparative analyses in plants.
+  - Complete transcriptome of the sobean root hair cell, a single-cell model, and its alteration in response to Bradyrhizobium japonicum infection.
+
+contributors: 
+
+data_curators: Sudhansu Dash, Sam Hokin
+
+public_access_level: public
+
+license: open
+
+keywords: soybean, expression atlas
+
+citations: 
+  - Libault M et al., An integrated transcriptome atlas of the crop model Glycine max, and its use in comparative analyses in plants., Plant J, 2010 Apr 7;63(1):86-99 and 
+  - Libault M et al., Complete transcriptome of the sobean root hair cell, a single-cell model, and its alteration in response to Bradyrhizobium japonicum infection, Plant Physiol, 2009 Nov 20;152(2):541-52.
+
+file_transformation: 
+  - TO ADD
+  - TO ADD
+changes: 
+  - 2019-05-07: Creation of metadata and formatting of files for this repository
+  - 2019-07-12: Creation of VCF file glyma.Wm82.gnm2.div.HVCP.NonSynSNPs.vcf.gz, a VCF file only containing Non-Synonymous SNP locations. Using the file GmHapMap.var.ann file produced from SnpEff, SNPs that were annotated as having a HIGH or MODERATE effect were assigned as Non-Synonymous SNP locations. These locations were then extracted from the original VCF file glyma.Wm82.gnm2.div.HVCP.SNPData.vcf.gz to produce this new VCF file. 
+  - 2020-01-06: Added files: glyma.Wm82.gnm2.div.HVCP.genotypes_by_gene.hmp.gz glyma.Wm82.gnm2.div.HVCP.haplotypes_by_gene.tsv.gz glyma.Wm82.gnm2.div.HVCP.loss_of_function.xlsx.gz . See file transformation notes above.
+
+
