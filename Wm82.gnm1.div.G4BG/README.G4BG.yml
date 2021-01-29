@@ -48,8 +48,7 @@ keywords:
 
 citations: Contreras-Soto RI, Mora F, de Oliveira MAR, Higashi W, Scapim CA, Schuster I (2017) A Genome-Wide Association Study for Agronomic Traits in Soybean Using SNP Markers and SNP-Based Haplotype Analysis. PLoS ONE 12(2): e0171105. https://doi.org/10.1371/journal.pone.0171105
 
-file_transformation: Origianl excel file received from Dr. Contreras-Soto was transformed into a VCF file using an in-house script. 
-  -  ```
+file_transformation: Original excel file received from Dr. Contreras-Soto was transformed into a VCF file using an in-house script. 
 
 changes: 
-  - <!--Free-text notes of any significant changes in the directory -->
+

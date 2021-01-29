@@ -49,5 +49,5 @@ citations: Zhou, Zhengkui, Yu Jiang, Zheng Wang, Zhiheng Gou, Jun Lyu, Weiyu Li,
 
 file_transformation: 20 individual SNP/INDEL files were combined into 1 and chromosomes were changed from a single digit 1, 2, to Gm01, Gm02, etc.. The combined file was then formatted into a VCF file using the scripts provided.                  
 
-changes: <!-- Free-text notes of any significant changes in the directory -->
-2018-11-29: Added INDEL data and scripts into the directory
+changes: 
+ - 2018-11-29 Added INDEL data and scripts into the directory
