@@ -1,0 +1,7 @@
+%YAML 1.2
+#filename in this repository: previous name
+glyma.Wm82.gnm2.ann2.BG1Q.cds.fna.gz: GCF_000004515.5_Glycine_max_v2.1_cds_from_genomic.fna.gz
+glyma.Wm82.gnm2.ann2.BG1Q.cds_primaryTranscript.fna.gz: processed from glyma.Wm82.gnm2.ann2.BG1Q.cds.fna.gz
+glyma.Wm82.gnm2.ann2.BG1Q.protein.faa.gz: GCF_000004515.5_Glycine_max_v2.1_protein.faa.gz
+glyma.Wm82.gnm2.ann2.BG1Q.protein_primaryTranscript.faa.gz: processed from glyma.Wm82.gnm2.ann2.BG1Q.protein.faa.gz
+glyma.Wm82.gnm2.ann2.BG1Q.gene_models_main.gff3.gz: ref_Glycine_max_v2.1_top_level.gff3.gz

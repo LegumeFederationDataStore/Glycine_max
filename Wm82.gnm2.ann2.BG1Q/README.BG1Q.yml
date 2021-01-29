@@ -1,0 +1,65 @@
+%YAML 1.2
+---
+identifier: BG1Q 
+
+provenance: The files in this directory originated from https://www.ncbi.nlm.nih.gov. The NCBI repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://phytozome.jgi.doe.gov
+
+subject: NCBI Glycine max Annotation Release 103; JGI assembly Glycine max version 2 on assembly 1
+
+related_to: Genome assembly files Glycine_max/Wm82.gnm2.DTC4
+
+scientific_name: Glycine max
+
+taxid: 3847
+# Genbank taxonomic identifier 
+
+bioproject: PRJNA19861
+
+scientific_name_abbrev: glyma
+
+genotype: Williams 82
+
+description: NCBI Glycine max Annotation Release 103 for the Glycine max Williams82 v02 genome assembly 
+
+dataset_doi: none
+
+genbank_accession: GCF_000004515.5
+
+original_file_creation_date: 2018-07-24
+
+local_file_creation_date: 2020-02-06
+
+publication_doi: 10.1038/nature08670  
+
+dataset_release_date: 2020-02-06 
+
+publication_title: Genome sequence of the palaeopolyploid soybean
+
+contributors: Schmutz J, Cannon SB, Schlueter J, Ma J, Mitros T, Nelson W, Hyten DL, Song Q, Thelen JJ, Cheng J, Xu D, Hellsten U, May GD, Yu Y, Sakurai T, Umezawa T, Bhattacharyya MK, Sandhu D, Valliyodan B, Lindquist E, Peto M, Grant D, Shu S, Goodstein D, Barry K, Futrell-Griggs M, Abernathy B, Du J, Tian Z, Zhu L, Gill N, Joshi T, Libault M, Sethuraman A, Zhang XC, Shinozaki K, Nguyen HT, Wing RA, Cregan P, Specht J, Grimwood J, Rokhsar D, Stacey G, Shoemaker RC, Jackson SA 
+
+data_curators: Wei Huang
+
+public_access_level: public 
+
+license: open
+
+keywords: soybean 
+
+citations: Schmutz J, Cannon SB, Schlueter J, Ma J, Mitros T, Nelson W, Hyten DL, Song Q, Thelen JJ, Cheng J, Xu D, Hellsten U, May GD, Yu Y, Sakurai T, Umezawa T, Bhattacharyya MK, Sandhu D, Valliyodan B, Lindquist E, Peto M, Grant D, Shu S, Goodstein D, Barry K, Futrell-Griggs M, Abernathy B, Du J, Tian Z, Zhu L, Gill N, Joshi T, Libault M, Sethuraman A, Zhang XC, Shinozaki K, Nguyen HT, Wing RA, Cregan P, Specht J, Grimwood J, Rokhsar D, Stacey G, Shoemaker RC, Jackson SA. (2010) Genome sequence of the palaeopolyploid soybean.  Nature 463, 178 - 183; doi:10.1038/nature08670
+
+file_transformation:
+        - original ref_Glycine_max_v2.1_top_level.gff3 was modified to have chr and scaffold as seqid instead of accession number, and prefix glyma.Wm82.gnm2.ann2 to the chr and scaffold.
+
+changes:
+  - 2020-01-29 initial Legume Federation Data Store file preparation.
+  - 2020-01-30 Replace accession number to Chromosome and scaffold ID in the origianl GFFs from NCBI with script i.e. combine_chr_gff.pl 
+  - 2020-01-30 add prefix glyma.Wm82.gnm2.ann2.BG1Q
+  - 2020-05-29 process glyma.Wm82.gnm2.ann2.BG1Q.cds.fna.gz to generate glyma.Wm82.gnm2.ann2.BG1Q.cds_primaryTranscript.fna.gz
+  - 2020-06-02 process glyma.Wm82.gnm2.ann2.BG1Q.protein.faa.gz to generate glyma.Wm82.gnm2.ann2.BG1Q.protein_primaryTranscript.faa.gz
+  - 2021-01-29 edit README (correct provenance description)
+ 
+ 
+    
+

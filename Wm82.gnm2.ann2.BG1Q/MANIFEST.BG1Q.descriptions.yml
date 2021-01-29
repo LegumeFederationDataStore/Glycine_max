@@ -1,0 +1,6 @@
+%YAML 1.2
+glyma.Wm82.gnm2.ann2.BG1Q.cds.fna.gz: Coding sequence (CDS) 
+glyma.Wm82.gnm2.ann2.BG1Q.cds_primaryTranscript.fna.gz: Coding sequence (CDS) - primary transcript
+glyma.Wm82.gnm2.ann2.BG1Q.protein.faa.gz: Protein sequences 
+glyma.Wm82.gnm2.ann2.BG1Q.protein_primaryTranscript.faa.gz: Protein sequences - primary transcript 
+glyma.Wm82.gnm2.ann2.BG1Q.gene_models_main.gff3.gz: Gene models
