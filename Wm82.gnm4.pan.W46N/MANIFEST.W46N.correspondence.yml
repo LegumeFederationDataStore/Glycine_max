@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+# filename_in_this_repository: previous_name
+glyma.Wm82.gnm4.pan.W46N.GmHapMap_IDs.xlsx: GmHapMap_IDs.xlsx
+glyma.Wm82.gnm4.pan.W46N.PanSoy.ptpg.gtf.gz: PanSoy.ptpg.gtf
+glyma.Wm82.gnm4.pan.W46N.PanSoy_cds_not_in_Wm82.fna.gz: new_genes_CDS.fna
+glyma.Wm82.gnm4.pan.W46N.PanSoy_seq_not_in_Wm82.fna.gz: non-redundant.fa
+glyma.Wm82.gnm4.pan.W46N.PanSoy_supp_tables.xlsx: Supp.Tables.xlsx
+

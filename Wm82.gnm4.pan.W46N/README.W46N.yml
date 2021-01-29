@@ -1,0 +1,55 @@
+%YAML 1.2
+identifier: W46N
+
+provenance: The files in this directory are associated with the PanSoy project by Davoud Torkamaneh, Marc-Andre Lemay, and Francois Belzile. The primary repository is https://figshare.com/projects/PanSoy/81077. The files are held in the SoyBase Data Store as a secondary instance of this data.
+
+source: https://figshare.com/projects/PanSoy/81077
+
+subject: Genomic sequence and gene variants present in 204 diverse accessions of Glycine max but not present in the reference assembly G. max Williams 82 v4. From Torkamaneh, Lemay, and Belzile, 2021.
+
+related_to: Glycine max Wm82.v4 genome assembly and annotations, data set Glycine_max/Wm82.gnm4.4PTR
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: none
+
+scientific_name_abbrev: glyma
+
+genotype: Multiple genotypes
+
+description: Studies on structural variation in plants have revealed the inadequacy of a single reference genome for an entire species and suggest that it is necessary to build a species-representative genome, called a pan-genome to better capture the extent of both structural and nucleotide variation. This analysis, termed PanSoy, was constructed using the de novo genome assembly of 204 phylogenetically and geographically representative improved accessions selected from the larger GmHapMap collection. PanSoy uncovers 108 Mb (~11%) of novel nonreference sequences encompassing 3,621 protein-coding genes (including 1,659 novel genes) absent from the soybean Williams 82 reference genome. 
+
+dataset_doi: https://doi.org/10.6084/m9.figshare.13570913.v1
+
+genbank_accession: none
+
+original_file_creation_date: 2020-05-22
+
+local_file_creation_date: 2021-01-29
+
+publication_doi: none (in review)
+
+dataset_release_date: 2021-01-29
+
+publication_title: The Pan-genome of the Cultivated Soybean (PanSoy) Reveals an Extraordinarily Conserved Gene Content
+
+contributors: Davoud Torkamaneh, Marc-Andre Lemay, and Francois Belzile
+
+data_curators: Steven Cannon, Anne Brown, Rex Nelson
+
+public_access_level: public
+
+license: CC
+
+keywords: soybean, pan-genome, PanSoy
+
+citations: Torkamaneh, D., Lemay, M.-A., Belzile, F. The Pan-genome of the Cultivated Soybean (PanSoy) Reveals an Extraordinarily Conserved Gene Content (in review, 2021)
+
+file_transformation: 
+  - 2021-01-29 Creation of initial data collection. Named files per Data Store conventions.
+
+changes: 
+
+

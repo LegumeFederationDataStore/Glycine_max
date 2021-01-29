@@ -1,0 +1,9 @@
+b3538994bfb127d3e8100a85183b910f MANIFEST.96SR.correspondence.yml
+f806c111752080c9fd82d4a621569767 MANIFEST.96SR.descriptions.yml
+211ddfd7020612ed68a2cac0ce61edcb README.96SR.yml
+522a477e7397dcf4ecb4fa5947924735 glyma.Lee.gnm1.div.96SR.SNPs_maf05.vcf.gz
+14ee9f3a2b195f84c4a7ce9ae57cc662 glyma.Lee.gnm1.div.96SR.gene_variant_counts.txt.gz
+651c54b481b9e17f34b155350e6cc6b8 glyma.Lee.gnm1.div.96SR.genes_not_in_Lee.gff3.gz
+9696eeddcc42dd909d591f4aa925208a glyma.Lee.gnm1.div.96SR.protein_Lee_and_other.fna.gz
+5142fd291aa8531cd4d6c034b5aff88b glyma.Lee.gnm1.pan.96SR.gene_pav_matrix.txt.gz
+0c75f261ded20dfa49a7467abad74598 glyma.Lee.gnm1.pan.96SR.seq_not_in_Lee.fna.gz

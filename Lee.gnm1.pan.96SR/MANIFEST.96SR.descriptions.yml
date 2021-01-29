@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+# filename_in_this_repository: description
+glyma.Lee.gnm1.div.96SR.SNPs_maf05.vcf.gz: SNPs for the reference genome, filtered by MAF > 5% and Genotype missingness > 1%.
+glyma.Lee.gnm1.div.96SR.genes_not_in_Lee.gff3.gz: The annotation in gff3 format, predicted from both the main genome and additional fragments from this study.
+glyma.Lee.gnm1.div.96SR.protein_Lee_and_other.fna.gz: Protein sequences, predicted from both the main genome and additional fragments from this study.
+glyma.Lee.gnm1.pan.96SR.gene_pav_matrix.txt.gz: PAV matrix, one individual per column, one gene per row. 1 is present and 0 is missing.
+glyma.Lee.gnm1.pan.96SR.seq_not_in_Lee.fna.gz: Genes and gene fragments predicted in genomic sequence from this study and not in the Lee genome. Note: differs from original file Lee.pan.renamed.fa by exclusion of the main Lee genome (pseudomolecules and scaffolds).
+soybean_pan_pav.matrix_gene.txt.gz: counts of variants observed for each gene. Derived from glyma.Lee.gnm1.pan.96SR.gene_pav_matrix.txt.

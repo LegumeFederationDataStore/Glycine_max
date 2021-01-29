@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+# filename_in_this_repository: previous_name
+glyma.Lee.gnm1.div.96SR.SNPs_maf05.vcf.gz: SNPs_lee.id.biallic_maf_0.05_geno_0.1.vcf.gz
+glyma.Lee.gnm1.div.96SR.genes_not_in_Lee.gff3.gz: Lee.pan.v1.renamed.gff.gz
+glyma.Lee.gnm1.div.96SR.protein_Lee_and_other.fna.gz: Lee.pan.pro.renamed.fa.gz
+glyma.Lee.gnm1.pan.96SR.gene_pav_matrix.txt.gz: soybean_pan_pav.matrix_gene.txt.gz
+glyma.Lee.gnm1.pan.96SR.seq_not_in_Lee.fna.gz: Lee.pan.renamed.fa.gz
+glyma.Lee.gnm1.div.96SR.gene_variant_counts.txt.gz: derived from soybean_pan_pav.matrix_gene.txt

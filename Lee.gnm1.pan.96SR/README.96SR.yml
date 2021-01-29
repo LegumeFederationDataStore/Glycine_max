@@ -1,0 +1,61 @@
+%YAML 1.2
+identifier: 96SR
+
+provenance: The files in this directory are the result of analyses by Philipp Bayer, Dave Edwards, Babu Valliyodan, Henry Nguyen, and colleagues. The primary repository is https://research-repository.uwa.edu.au/en/datasets/soybean-pangenome-snps-assembly-annotation-pav. The files are held in the SoyBase Data Store as a secondary instance of this data.
+
+source: https://soybase.org
+
+subject: Genomic sequence and SNP variants present in 1110 accessions of Glycine max and Glycine soja but not present in the reference genome assembly of G. max Lee.
+
+related_to: Glycine max Lee genome assembly and annotations
+
+scientific_name: 
+  - Glycine max
+  - Glycine soja
+
+taxid: 
+  - 3847
+  - 3848
+
+bioproject: none
+
+scientific_name_abbrev: 
+  - glyma
+  - glyso
+
+genotype: Multiple genotypes
+
+description: Genomic sequence and SNP variants present in 1110 accessions of Glycine max and Glycine soja but not present in the reference genome assembly of G. max Lee.
+
+dataset_doi: 10.26182/5f34ac3377313
+
+genbank_accession: none
+
+original_file_creation_date: 2020-06
+
+local_file_creation_date: 2020-08
+
+publication_doi: none
+
+dataset_release_date: 2020-08
+
+publication_title: none
+
+contributors: Bayer, P., Hu, R., Valliyodan, B., Marsh, J., Yuan, A., Vuong, T., Patil, G., Song, Q., Batley, J., Varshney, R., Lam, H. M., Edwards, D., Nguyen, H.
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: CC
+
+keywords: soybean, pan-genome, Lee
+
+citations: Bayer, P., Hu, R., Valliyodan, B., Marsh, J., Yuan, A., Vuong, T., Patil, G., Song, Q., Batley, J., Varshney, R., Lam, H. M., Edwards, D., Nguyen, H. Soybean pangenome SNPs, assembly, annotation, PAV. The University of Western Australia. DOI:10.26182/5f34ac3377313
+
+file_transformation: 
+  - 2020-008-18 Creation of initial data collection. Named files, added prefixes to reference seq IDs, etc.
+
+changes: 
+
+
