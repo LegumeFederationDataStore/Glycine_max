@@ -51,5 +51,5 @@ file_transformation:
   - 2021-01-29 Creation of initial data collection. Named files per Data Store conventions.
 
 changes: 
-
+  - 2021-02-01 Shorten IDs to satisfy makeblastdb. Shorten as follows - s/_length_/_l/; s/_cvg_/_c/; s/_tip_/_t/
 
